@@ -1,164 +1,164 @@
 {
 	"artifacts": [
 		{
-			"name": "alchemicalhydra-1.0.0.jar",
+			"name": "alchemicalhydra-1.0.1.jar",
 			"plugins": ["com.spoon.alchemicalhydra.HydraPlugin"],
-			"version": "1.0.0",
-			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/alchemicalhydra-1.0.0.jar",
-			"hash": "8F9682C6E67210522A6ECEE790B1DF8DEB560DE397E7DCCAEAA44DCBFA879D47"
-			"description": "An overlay plugin for the Alchemical Hydra boss.",
+			"version": "1.0.1",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/alchemicalhydra-1.0.1.jar",
+			"hash": "119B813228B695EE3B1610B1645EE5D8CC83047FF07015316498AF08F7F12767",
+			"description": "An overlay plugin for the Alchemical Hydra boss."
 		},
 		{
 			"name": "aoe-1.0.0.jar",
 			"plugins": ["com.spoon.aoe.ProjectilePlugin"],
 			"version": "1.0.0",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/aoe-1.0.0.jar",
-			"hash": "B5D9871FB43D8AF7D0A4C69EA8AE5F29AB98464B921FAD8DFB7E01A201AB9783"
-			"description": "Displays where AoE attacks are going to land.",
+			"hash": "B5D9871FB43D8AF7D0A4C69EA8AE5F29AB98464B921FAD8DFB7E01A201AB9783",
+			"description": "Displays where AoE attacks are going to land."
 		},
 		{
 			"name": "bonylo-1.0.0.jar",
 			"plugins": ["com.spoon.bonylo.BoNyloPlugin"],
 			"version": "1.0.0",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/bonylo-1.0.0.jar",
-			"hash": "FF889DD6ED62CABB11BF007A4E544BBABAEE2389BD737DFF169FBF46C6F8B060"
-			"description": "Nylo ticks good.",
+			"hash": "FF889DD6ED62CABB11BF007A4E544BBABAEE2389BD737DFF169FBF46C6F8B060",
+			"description": "Nylo ticks good."
 		},
 		{
 			"name": "cerberushelper-1.0.1.jar",
 			"plugins": ["com.spoon.cerberushelper.CerberusPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/cerberushelper-1.0.1.jar",
-			"hash": "ACE0221D7419C292987555CE4504D4813D860DF150F688A707F69AD9D32208CD"
-			"description": "A helper plugin for the Cerberus boss. Comes with overlays and auto prayers.",
+			"hash": "ACE0221D7419C292987555CE4504D4813D860DF150F688A707F69AD9D32208CD",
+			"description": "A helper plugin for the Cerberus boss. Comes with overlays and auto prayers."
 		},
 		{
 			"name": "developertools-1.0.2.jar",
 			"plugins": ["com.spoon.developertools.ToolsPlugin"],
 			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/developertools-1.0.2.jar",
-			"hash": "9099654BF0979F2F6760041E5AC3FF4595A4EEC89914B0FFC15E3AC9C811799C"
-			"description": "Additional developer tools for plugin development.",
+			"hash": "9099654BF0979F2F6760041E5AC3FF4595A4EEC89914B0FFC15E3AC9C811799C",
+			"description": "Additional developer tools for plugin development."
 		},
 		{
 			"name": "gwdticktimers-1.0.1.jar",
 			"plugins": ["com.spoon.godwarsticktimers.GodWarsTickTimersPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/gwdticktimers-1.0.1.jar",
-			"hash": "F22F829499F870AD8AE67203F131708C9694EAF8D2794F3BD4A6E17DBA24B518"
-			"description": "Overlay plugin for the GWD bosses.",
+			"hash": "F22F829499F870AD8AE67203F131708C9694EAF8D2794F3BD4A6E17DBA24B518",
+			"description": "Overlay plugin for the GWD bosses."
 		},
 		{
-			"name": "jadhelper-1.0.0.jar",
+			"name": "jadhelper-1.0.1.jar",
 			"plugins": ["com.spoon.spoonjadhelper.SpoonJadHelperPlugin"],
-			"version": "1.0.0",
-			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/jadhelper-1.0.0.jar",
-			"hash": "13A788B73EBC6E9D65A9A22CAF731CE896ED44F5D89B4F6EA29602836DA9D565"
-			"description": "Plugin for those who cannot do Jad.",
+			"version": "1.0.1",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/jadhelper-1.0.1.jar",
+			"hash": "286D4103BB799CEFE3D102DD1FE1CA804015A914B56289274DC60DA0448A97AB",
+			"description": "Plugin for those who cannot do Jad."
 		},
 		{
 			"name": "orbpulse-1.0.0.jar",
 			"plugins": ["com.spoon.orbpulse.OrbPulsePlugin"],
 			"version": "1.0.0",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/orbpulse-1.0.0.jar",
-			"hash": "F9F40BB1B0F3B54B625D2A2DF302599842D5F313AB4AD1FE4154BF7137D1BACA"
-			"description": "Makes the Health and/or Spec orbs pulse.",
+			"hash": "F9F40BB1B0F3B54B625D2A2DF302599842D5F313AB4AD1FE4154BF7137D1BACA",
+			"description": "Makes the Health and/or Spec orbs pulse."
 		},
 		{
 			"name": "outgoingchatfilter-1.0.0.jar",
 			"plugins": ["com.spoon.outgoingchatfilter.OutgoingChatFilterPlugin"],
 			"version": "1.0.0",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/outgoingchatfilter-1.0.0.jar",
-			"hash": "5765A6ABB20C3F9E29401030BC729B0C05E51F9C1151C43E1F1EA675A0D750E3"
-			"description": "Stops you from saying naughty words.",
+			"hash": "5765A6ABB20C3F9E29401030BC729B0C05E51F9C1151C43E1F1EA675A0D750E3",
+			"description": "Stops you from saying naughty words."
 		},
 		{
 			"name": "reorderprayers-1.0.1.jar",
 			"plugins": ["com.spoon.reorderprayers.ReorderPrayersPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/reorderprayers-1.0.1.jar",
-			"hash": "8913853924E55D9E7AB333FCCDF547F44E9BAE3D6027340F5FFF364BB61C7844"
-			"description": "Reorder the prayers displayed on the Prayer panel.",
+			"hash": "8913853924E55D9E7AB333FCCDF547F44E9BAE3D6027340F5FFF364BB61C7844",
+			"description": "Reorder the prayers displayed on the Prayer panel."
 		},
 		{
 			"name": "specbar-1.0.1.jar",
 			"plugins": ["com.spoon.specbar.SpecBarPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/specbar-1.0.1.jar",
-			"hash": "353F96926EA50AF8ACEFE31A42DE1DF21AA34A192245A73247631D78D94B376D"
-			"description": "Adds a spec bar to every weapon.",
+			"hash": "353F96926EA50AF8ACEFE31A42DE1DF21AA34A192245A73247631D78D94B376D",
+			"description": "Adds a spec bar to every weapon."
 		},
 		{
 			"name": "spoonexternalmanager-1.0.0.jar",
 			"plugins": ["com.spoon.spoonexternalmanager.SpoonExternalManager"],
 			"version": "1.0.0",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonexternalmanager-1.0.0.jar",
-			"hash": "E6DCCC7C05EC62187D229749DFC5DE85AA5828B5A995E7C8AAC81713459BA11D"
-			"description": "Loads plugins from repos",
+			"hash": "E6DCCC7C05EC62187D229749DFC5DE85AA5828B5A995E7C8AAC81713459BA11D",
+			"description": "Loads plugins from repos"
 		},
 		{
 			"name": "spoonezswaps-1.0.1.jar",
 			"plugins": ["com.spoon.spoonezswaps.SpoonEzSwapsPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonezswaps-1.0.1.jar",
-			"hash": "0514552A65331051D1EB03B7718F0A33A8D11BBCEE2FB6E71579D606336E6A4C"
-			"description": "All in 1 swaps plugin.",
+			"hash": "0514552A65331051D1EB03B7718F0A33A8D11BBCEE2FB6E71579D606336E6A4C",
+			"description": "All in 1 swaps plugin."
 		},
 		{
 			"name": "spoongauntlet-1.0.1.jar",
 			"plugins": ["com.spoon.spoongauntlet.SpoonGauntletPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoongauntlet-1.0.1.jar",
-			"hash": "413B1A3B6C237453CA088F895177DA1A0F8E990296E8CA207420C88CBA59CB21"
-			"description": "Best Gauntlet plugin.",
+			"hash": "413B1A3B6C237453CA088F895177DA1A0F8E990296E8CA207420C88CBA59CB21",
+			"description": "Best Gauntlet plugin."
 		},
 		{
 			"name": "spoonnex-1.0.1.jar",
 			"plugins": ["com.spoon.spoonnex.SpoonNexPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonnex-1.0.1.jar",
-			"hash": "3F39B1796C4586C26672F3F904BC5DD8A08356C3CB55195FE08751221E5CF366"
-			"description": "Best Nex plugin.",
+			"hash": "3F39B1796C4586C26672F3F904BC5DD8A08356C3CB55195FE08751221E5CF366",
+			"description": "Best Nex plugin."
 		},
 		{
 			"name": "spoonnightmare-1.0.1.jar",
 			"plugins": ["com.spoon.spoonnightmare.SpoonNightmarePlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonnightmare-1.0.1.jar",
-			"hash": "AF29B5AD497FCDE59CDB41B116C9A4C9C37171C3F61B02296AF7A6118E8F174E"
-			"description": "Best Nightmare plugin ever.",
+			"hash": "AF29B5AD497FCDE59CDB41B116C9A4C9C37171C3F61B02296AF7A6118E8F174E",
+			"description": "Best Nightmare plugin ever."
 		},
 		{
 			"name": "spoonobjecthider-1.0.1.jar",
 			"plugins": ["com.spoon.spoonobjecthider.SpoonObjectHiderPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonobjecthider-1.0.1.jar",
-			"hash": "81A23DAAE71C71E2C76255FC6D66556E0D2DAA8704870374063B389323EC97E3"
-			"description": "Hides game objects, ground objects, and presets.",
+			"hash": "81A23DAAE71C71E2C76255FC6D66556E0D2DAA8704870374063B389323EC97E3",
+			"description": "Hides game objects, ground objects, and presets."
 		},
 		{
 			"name": "spoontob-1.0.1.jar",
 			"plugins": ["com.spoon.spoontob.SpoonTobPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoontob-1.0.1.jar",
-			"hash": "D01B9004764D07E0FCE0C09A0DA3CF792B00C9C1591D5150FD12F2783A972902"
-			"description": "Best ToB plugin ever.",
+			"hash": "D01B9004764D07E0FCE0C09A0DA3CF792B00C9C1591D5150FD12F2783A972902",
+			"description": "Best ToB plugin ever."
 		},
 		{
 			"name": "spoontobstats-1.0.0.jar",
 			"plugins": ["com.spoon.spoontobstats.SpoonTobStatsPlugin"],
 			"version": "1.0.0",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoontobstats-1.0.0.jar",
-			"hash": "24CD06763BE6933455A76CCB04D79DE2CDF63B25C892047495BDE494CC97BAC5"
-			"description": "Best ToB time plugin ever.",
+			"hash": "24CD06763BE6933455A76CCB04D79DE2CDF63B25C892047495BDE494CC97BAC5",
+			"description": "Best ToB time plugin ever."
 		},
 		{
 			"name": "zulrah-1.0.1.jar",
 			"plugins": ["com.spoon.zulrah.ZulrahPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/zulrah-1.0.1.jar",
-			"hash": "816377538458F04786282D2096E7EE5F228936FD63CAC764091647BA084679BB"
-			"description": "An overlay for the Zulrah fight.",
+			"hash": "816377538458F04786282D2096E7EE5F228936FD63CAC764091647BA084679BB",
+			"description": "An overlay for the Zulrah fight."
 		}
 	]
 }
