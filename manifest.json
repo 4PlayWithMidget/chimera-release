@@ -4,7 +4,7 @@
 			"name": "alchemicalhydra.jar",
 			"plugins": ["com.spoon.alchemicalhydra.HydraPlugin"],
 			"version": "1.0.2",
-			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/alchemicalhydra-1.0.2.jar",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/alchemicalhydra.jar",
 			"hash": "37cf49657c6b44c5608e0e7fc3ce2be38351fe0486ffbd07e5e8ccb64f3181a2",
 			"description": "An overlay plugin for the Alchemical Hydra boss."
 		},
@@ -12,7 +12,7 @@
 			"name": "aoe.jar",
 			"plugins": ["com.spoon.aoe.ProjectilePlugin"],
 			"version": "1.0.1",
-			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/aoe-1.0.1.jar",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/aoe.jar",
 			"hash": "63d9fc5ec7d8a497f43deb87fb2c9acf9bc4a137106c1631bdd97afb6bd42578",
 			"description": "Displays where AoE attacks are going to land."
 		},
@@ -20,7 +20,7 @@
 			"name": "bonylo.jar",
 			"plugins": ["com.spoon.bonylo.BoNyloPlugin"],
 			"version": "1.0.1",
-			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/bonylo-1.0.1.jar",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/bonylo.jar",
 			"hash": "bc86239d28abd03e5f78abe488b6406cbabb45f5ee6ea38d89082da9487094c3",
 			"description": "Nylo ticks good."
 		},
@@ -28,7 +28,7 @@
 			"name": "cerberushelper.jar",
 			"plugins": ["com.spoon.cerberushelper.CerberusPlugin"],
 			"version": "1.0.1",
-			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/cerberushelper-1.0.1.jar",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/cerberushelper.jar",
 			"hash": "ace0221d7419c292987555ce4504d4813d860df150f688a707f69ad9d32208cd",
 			"description": "A helper plugin for the Cerberus boss. Comes with overlays and auto prayers."
 		},
@@ -36,7 +36,7 @@
 			"name": "developertools.jar",
 			"plugins": ["com.spoon.developertools.ToolsPlugin"],
 			"version": "1.0.2",
-			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/developertools-1.0.2.jar",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/developertools.jar",
 			"hash": "9099654bf0979f2f6760041e5ac3ff4595a4eec89914b0ffc15e3ac9c811799c",
 			"description": "Additional developer tools for plugin development."
 		},
@@ -44,7 +44,7 @@
 			"name": "fightcave.jar",
 			"plugins": ["com.spoon.fightcave.FightCavePlugin"],
 			"version": "1.0.0",
-			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/fightcave-1.0.0.jar",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/fightcave.jar",
 			"hash": "07017cd7a513e45f2db0a7b1d6c7ba21ed4d0c101ce88bc41fd2490eb97a16f1",
 			"description": "Plugin for those who cannot do Jad."
 		},
@@ -52,7 +52,7 @@
 			"name": "gwdticktimers.jar",
 			"plugins": ["com.spoon.godwarsticktimers.GodWarsTickTimersPlugin"],
 			"version": "1.0.1",
-			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/gwdticktimers-1.0.1.jar",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/gwdticktimers.jar",
 			"hash": "f22f829499f870ad8ae67203f131708c9694eaf8d2794f3bd4a6e17dba24b518",
 			"description": "Overlay plugin for the GWD bosses."
 		},
@@ -60,7 +60,7 @@
 			"name": "jadhelper.jar",
 			"plugins": ["com.spoon.spoonjadhelper.SpoonJadHelperPlugin"],
 			"version": "1.0.1",
-			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/jadhelper-1.0.1.jar",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/jadhelper.jar",
 			"hash": "286d4103bb799cefe3d102dd1fe1ca804015a914b56289274dc60da0448a97ab",
 			"description": "Plugin for those who cannot do Jad."
 		},
@@ -68,7 +68,7 @@
 			"name": "orbpulse.jar",
 			"plugins": ["com.spoon.orbpulse.OrbPulsePlugin"],
 			"version": "1.0.0",
-			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/orbpulse-1.0.0.jar",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/orbpulse.jar",
 			"hash": "f9f40bb1b0f3b54b625d2a2df302599842d5f313ab4ad1fe4154bf7137d1baca",
 			"description": "Makes the Health and/or Spec orbs pulse."
 		},
@@ -76,7 +76,7 @@
 			"name": "outgoingchatfilter.jar",
 			"plugins": ["com.spoon.outgoingchatfilter.OutgoingChatFilterPlugin"],
 			"version": "1.0.0",
-			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/outgoingchatfilter-1.0.0.jar",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/outgoingchatfilter.jar",
 			"hash": "5765a6abb20c3f9e29401030bc729b0c05e51f9c1151c43e1f1ea675a0d750e3",
 			"description": "Stops you from saying naughty words."
 		},
@@ -84,7 +84,7 @@
 			"name": "reorderprayers.jar",
 			"plugins": ["com.spoon.reorderprayers.ReorderPrayersPlugin"],
 			"version": "1.0.2",
-			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/reorderprayers-1.0.2.jar",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/reorderprayers.jar",
 			"hash": "62a6b83971417e8d6713b08f2c62f78c345506a462f05d58656e2e9abeb663dd",
 			"description": "Reorder the prayers displayed on the Prayer panel."
 		},
@@ -92,7 +92,7 @@
 			"name": "specbar.jar",
 			"plugins": ["com.spoon.specbar.SpecBarPlugin"],
 			"version": "1.0.1",
-			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/specbar-1.0.1.jar",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/specbar.jar",
 			"hash": "2ef6188b660a9d09eaa87c574cc8bf6e8320421e799e1bab790eadf3db552cdd",
 			"description": "Adds a spec bar to every weapon."
 		},
@@ -100,7 +100,7 @@
 			"name": "spoonexternalmanager.jar",
 			"plugins": ["com.spoon.spoonexternalmanager.SpoonExternalManager"],
 			"version": "1.0.5",
-			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonexternalmanager-1.0.5.jar",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonexternalmanager.jar",
 			"hash": "73954a7a229d519110a71a9ef5200d3df1f8a012b8b99ef0baee5357e3a6c216",
 			"description": "Loads plugins from repos"
 		},
@@ -108,7 +108,7 @@
 			"name": "spoonezswaps.jar",
 			"plugins": ["com.spoon.spoonezswaps.SpoonEzSwapsPlugin"],
 			"version": "1.0.2",
-			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonezswaps-1.0.2.jar",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonezswaps.jar",
 			"hash": "1722e5bdfd1660c6dcc154aad20ed21a7f09165ddb9ebb48c64434dc167a0aaa",
 			"description": "All in 1 swaps plugin."
 		},
@@ -116,7 +116,7 @@
 			"name": "spoongauntlet.jar",
 			"plugins": ["com.spoon.spoongauntlet.SpoonGauntletPlugin"],
 			"version": "1.0.2",
-			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoongauntlet-1.0.2.jar",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoongauntlet.jar",
 			"hash": "0bd9e7d6076ec7da6bcbaf78ce49159b67120e0d6fce06891b903d1c6532f695",
 			"description": "Best Gauntlet plugin."
 		},
@@ -124,7 +124,7 @@
 			"name": "spoonnex.jar",
 			"plugins": ["com.spoon.spoonnex.SpoonNexPlugin"],
 			"version": "1.0.1",
-			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonnex-1.0.1.jar",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonnex.jar",
 			"hash": "3f39b1796c4586c26672f3f904bc5dd8a08356c3cb55195fe08751221e5cf366",
 			"description": "Best Nex plugin."
 		},
@@ -132,7 +132,7 @@
 			"name": "spoonnightmare.jar",
 			"plugins": ["com.spoon.spoonnightmare.SpoonNightmarePlugin"],
 			"version": "1.0.2",
-			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonnightmare-1.0.2.jar",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonnightmare.jar",
 			"hash": "efc0eadab5216383cbe25a15cb5f5b46d1e3d28631f081167b08d39292bf88f8",
 			"description": "Best Nightmare plugin ever."
 		},
@@ -140,7 +140,7 @@
 			"name": "spoonobjecthider.jar",
 			"plugins": ["com.spoon.spoonobjecthider.SpoonObjectHiderPlugin"],
 			"version": "1.0.2",
-			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonobjecthider-1.0.2.jar",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonobjecthider.jar",
 			"hash": "4af364c3c38edaecadf5136255b53294d68cccb4f0b9f54f3837a5ac5f7c496d",
 			"description": "Hides game objects, ground objects, and presets."
 		},
@@ -148,7 +148,7 @@
 			"name": "spoontob.jar",
 			"plugins": ["com.spoon.spoontob.SpoonTobPlugin"],
 			"version": "1.0.2",
-			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoontob-1.0.2.jar",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoontob.jar",
 			"hash": "dece94ec61ce1983a0faf6c5ed5f7ba2a6001ad342caca21aff35e0f77a548f4",
 			"description": "Best ToB plugin ever."
 		},
@@ -156,7 +156,7 @@
 			"name": "spoontobstats.jar",
 			"plugins": ["com.spoon.spoontobstats.SpoonTobStatsPlugin"],
 			"version": "1.0.1",
-			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoontobstats-1.0.1.jar",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoontobstats.jar",
 			"hash": "f576f3b61fe6aef70241d8f0f42b8b3fccc63db10ec03d456e74cb3d367fe8e0",
 			"description": "Best ToB time plugin ever."
 		},
@@ -164,7 +164,7 @@
 			"name": "zulrah.jar",
 			"plugins": ["com.spoon.zulrah.ZulrahPlugin"],
 			"version": "1.0.2",
-			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/zulrah-1.0.2.jar",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/zulrah.jar",
 			"hash": "cbeb7905147f6fba2a1a61e54b64bf2fc883fea298ddc99b558d9037bc34ebff",
 			"description": "An overlay for the Zulrah fight."
 		}
