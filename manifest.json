@@ -97,11 +97,11 @@
 			"description": "Adds a spec bar to every weapon."
 		},
 		{
-			"name": "spoonexternalmanager-1.0.4.jar",
+			"name": "spoonexternalmanager-1.0.5.jar",
 			"plugins": ["com.spoon.spoonexternalmanager.SpoonExternalManager"],
-			"version": "1.0.4",
-			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonexternalmanager-1.0.4.jar",
-			"hash": "9f06d2461778dc8ac7dcd5c466149b3df32c51bbb17fbc6489a5f19186583703",
+			"version": "1.0.5",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonexternalmanager-1.0.5.jar",
+			"hash": "73954a7a229d519110a71a9ef5200d3df1f8a012b8b99ef0baee5357e3a6c216",
 			"description": "Loads plugins from repos"
 		},
 		{
