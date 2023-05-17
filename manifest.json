@@ -1,7 +1,7 @@
 {
 	"artifacts": [
 		{
-			"name": "alchemicalhydra-1.0.2.jar",
+			"name": "alchemicalhydra.jar",
 			"plugins": ["com.spoon.alchemicalhydra.HydraPlugin"],
 			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/alchemicalhydra-1.0.2.jar",
@@ -9,7 +9,7 @@
 			"description": "An overlay plugin for the Alchemical Hydra boss."
 		},
 		{
-			"name": "aoe-1.0.1.jar",
+			"name": "aoe.jar",
 			"plugins": ["com.spoon.aoe.ProjectilePlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/aoe-1.0.1.jar",
@@ -17,7 +17,7 @@
 			"description": "Displays where AoE attacks are going to land."
 		},
 		{
-			"name": "bonylo-1.0.1.jar",
+			"name": "bonylo.jar",
 			"plugins": ["com.spoon.bonylo.BoNyloPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/bonylo-1.0.1.jar",
@@ -25,7 +25,7 @@
 			"description": "Nylo ticks good."
 		},
 		{
-			"name": "cerberushelper-1.0.1.jar",
+			"name": "cerberushelper.jar",
 			"plugins": ["com.spoon.cerberushelper.CerberusPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/cerberushelper-1.0.1.jar",
@@ -33,7 +33,7 @@
 			"description": "A helper plugin for the Cerberus boss. Comes with overlays and auto prayers."
 		},
 		{
-			"name": "developertools-1.0.2.jar",
+			"name": "developertools.jar",
 			"plugins": ["com.spoon.developertools.ToolsPlugin"],
 			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/developertools-1.0.2.jar",
@@ -41,7 +41,7 @@
 			"description": "Additional developer tools for plugin development."
 		},
 		{
-			"name": "fightcave-1.0.0.jar",
+			"name": "fightcave.jar",
 			"plugins": ["com.spoon.fightcave.FightCavePlugin"],
 			"version": "1.0.0",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/fightcave-1.0.0.jar",
@@ -49,7 +49,7 @@
 			"description": "Plugin for those who cannot do Jad."
 		},
 		{
-			"name": "gwdticktimers-1.0.1.jar",
+			"name": "gwdticktimers.jar",
 			"plugins": ["com.spoon.godwarsticktimers.GodWarsTickTimersPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/gwdticktimers-1.0.1.jar",
@@ -57,7 +57,7 @@
 			"description": "Overlay plugin for the GWD bosses."
 		},
 		{
-			"name": "jadhelper-1.0.1.jar",
+			"name": "jadhelper.jar",
 			"plugins": ["com.spoon.spoonjadhelper.SpoonJadHelperPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/jadhelper-1.0.1.jar",
@@ -65,7 +65,7 @@
 			"description": "Plugin for those who cannot do Jad."
 		},
 		{
-			"name": "orbpulse-1.0.0.jar",
+			"name": "orbpulse.jar",
 			"plugins": ["com.spoon.orbpulse.OrbPulsePlugin"],
 			"version": "1.0.0",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/orbpulse-1.0.0.jar",
@@ -73,7 +73,7 @@
 			"description": "Makes the Health and/or Spec orbs pulse."
 		},
 		{
-			"name": "outgoingchatfilter-1.0.0.jar",
+			"name": "outgoingchatfilter.jar",
 			"plugins": ["com.spoon.outgoingchatfilter.OutgoingChatFilterPlugin"],
 			"version": "1.0.0",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/outgoingchatfilter-1.0.0.jar",
@@ -81,7 +81,7 @@
 			"description": "Stops you from saying naughty words."
 		},
 		{
-			"name": "reorderprayers-1.0.2.jar",
+			"name": "reorderprayers.jar",
 			"plugins": ["com.spoon.reorderprayers.ReorderPrayersPlugin"],
 			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/reorderprayers-1.0.2.jar",
@@ -89,7 +89,7 @@
 			"description": "Reorder the prayers displayed on the Prayer panel."
 		},
 		{
-			"name": "specbar-1.0.1.jar",
+			"name": "specbar.jar",
 			"plugins": ["com.spoon.specbar.SpecBarPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/specbar-1.0.1.jar",
@@ -97,7 +97,7 @@
 			"description": "Adds a spec bar to every weapon."
 		},
 		{
-			"name": "spoonexternalmanager-1.0.5.jar",
+			"name": "spoonexternalmanager.jar",
 			"plugins": ["com.spoon.spoonexternalmanager.SpoonExternalManager"],
 			"version": "1.0.5",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonexternalmanager-1.0.5.jar",
@@ -105,7 +105,7 @@
 			"description": "Loads plugins from repos"
 		},
 		{
-			"name": "spoonezswaps-1.0.2.jar",
+			"name": "spoonezswaps.jar",
 			"plugins": ["com.spoon.spoonezswaps.SpoonEzSwapsPlugin"],
 			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonezswaps-1.0.2.jar",
@@ -113,7 +113,7 @@
 			"description": "All in 1 swaps plugin."
 		},
 		{
-			"name": "spoongauntlet-1.0.2.jar",
+			"name": "spoongauntlet.jar",
 			"plugins": ["com.spoon.spoongauntlet.SpoonGauntletPlugin"],
 			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoongauntlet-1.0.2.jar",
@@ -121,7 +121,7 @@
 			"description": "Best Gauntlet plugin."
 		},
 		{
-			"name": "spoonnex-1.0.1.jar",
+			"name": "spoonnex.jar",
 			"plugins": ["com.spoon.spoonnex.SpoonNexPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonnex-1.0.1.jar",
@@ -129,7 +129,7 @@
 			"description": "Best Nex plugin."
 		},
 		{
-			"name": "spoonnightmare-1.0.2.jar",
+			"name": "spoonnightmare.jar",
 			"plugins": ["com.spoon.spoonnightmare.SpoonNightmarePlugin"],
 			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonnightmare-1.0.2.jar",
@@ -137,7 +137,7 @@
 			"description": "Best Nightmare plugin ever."
 		},
 		{
-			"name": "spoonobjecthider-1.0.2.jar",
+			"name": "spoonobjecthider.jar",
 			"plugins": ["com.spoon.spoonobjecthider.SpoonObjectHiderPlugin"],
 			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonobjecthider-1.0.2.jar",
@@ -145,7 +145,7 @@
 			"description": "Hides game objects, ground objects, and presets."
 		},
 		{
-			"name": "spoontob-1.0.2.jar",
+			"name": "spoontob.jar",
 			"plugins": ["com.spoon.spoontob.SpoonTobPlugin"],
 			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoontob-1.0.2.jar",
@@ -153,7 +153,7 @@
 			"description": "Best ToB plugin ever."
 		},
 		{
-			"name": "spoontobstats-1.0.1.jar",
+			"name": "spoontobstats.jar",
 			"plugins": ["com.spoon.spoontobstats.SpoonTobStatsPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoontobstats-1.0.1.jar",
@@ -161,7 +161,7 @@
 			"description": "Best ToB time plugin ever."
 		},
 		{
-			"name": "zulrah-1.0.2.jar",
+			"name": "zulrah.jar",
 			"plugins": ["com.spoon.zulrah.ZulrahPlugin"],
 			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/zulrah-1.0.2.jar",
