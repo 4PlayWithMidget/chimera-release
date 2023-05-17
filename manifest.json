@@ -9,11 +9,11 @@
 			"description": "An overlay plugin for the Alchemical Hydra boss."
 		},
 		{
-			"name": "aoe-1.0.0.jar",
+			"name": "aoe-1.0.1.jar",
 			"plugins": ["com.spoon.aoe.ProjectilePlugin"],
-			"version": "1.0.0",
-			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/aoe-1.0.0.jar",
-			"hash": "b5d9871fb43d8af7d0a4c69ea8ae5f29ab98464b921fad8dfb7e01a201ab9783",
+			"version": "1.0.1",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/aoe-1.0.1.jar",
+			"hash": "63d9fc5ec7d8a497f43deb87fb2c9acf9bc4a137106c1631bdd97afb6bd42578",
 			"description": "Displays where AoE attacks are going to land."
 		},
 		{
@@ -101,7 +101,7 @@
 			"plugins": ["com.spoon.spoonexternalmanager.SpoonExternalManager"],
 			"version": "1.0.4",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonexternalmanager-1.0.4.jar",
-			"hash": "67ca3935ce70ff1551c92774d8694054a7d8825abd10757b88667aee96492f32",
+			"hash": "9f06d2461778dc8ac7dcd5c466149b3df32c51bbb17fbc6489a5f19186583703",
 			"description": "Loads plugins from repos"
 		},
 		{
