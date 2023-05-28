@@ -91,25 +91,25 @@
 		{
 			"name": "specbar.jar",
 			"plugins": ["com.spoon.specbar.SpecBarPlugin"],
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/specbar.jar",
-			"hash": "2ef6188b660a9d09eaa87c574cc8bf6e8320421e799e1bab790eadf3db552cdd",
+			"hash": "67654ddfc99728d7194acef1789089609267aa57ca929a71bb7e0ae9b073c27f",
 			"description": "Adds a spec bar to every weapon."
 		},
 		{
 			"name": "spoonexternalmanager.jar",
 			"plugins": ["com.spoon.spoonexternalmanager.SpoonExternalManager"],
-			"version": "1.0.5",
+			"version": "1.0.6",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonexternalmanager.jar",
-			"hash": "73954a7a229d519110a71a9ef5200d3df1f8a012b8b99ef0baee5357e3a6c216",
+			"hash": "fbcf738e84af89dd2764bc6f01c549a266dba07f91d15da9a1d45948f081e6fa",
 			"description": "Loads plugins from repos"
 		},
 		{
 			"name": "spoonezswaps.jar",
 			"plugins": ["com.spoon.spoonezswaps.SpoonEzSwapsPlugin"],
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonezswaps.jar",
-			"hash": "1722e5bdfd1660c6dcc154aad20ed21a7f09165ddb9ebb48c64434dc167a0aaa",
+			"hash": "1afb98d57812e5cb3df1a69863b86df8e5002168907e73ded493b9fc1c98828c",
 			"description": "All in 1 swaps plugin."
 		},
 		{
@@ -147,9 +147,9 @@
 		{
 			"name": "spoontob.jar",
 			"plugins": ["com.spoon.spoontob.SpoonTobPlugin"],
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoontob.jar",
-			"hash": "dece94ec61ce1983a0faf6c5ed5f7ba2a6001ad342caca21aff35e0f77a548f4",
+			"hash": "f3ba5a564c124a1d459fc14c5a5a1b66630a5246a0e8b762c419fab6cee57da3",
 			"description": "Best ToB plugin ever."
 		},
 		{
