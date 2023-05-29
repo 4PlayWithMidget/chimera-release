@@ -109,7 +109,7 @@
 			"plugins": ["com.spoon.spoonexternalmanager.SpoonExternalManager"],
 			"version": "1.0.7",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonexternalmanager.jar",
-			"hash": "30c13c66f8f53389a8eff64c0e29396b8d0a436e349bf6a56a4516e9d6e7fb79",
+			"hash": "0c7702d88934b86b81a23dd27cde47d79989df8162070ffd25fcd563d6b5168c",
 			"description": "Loads plugins from repos"
 		},
 		{
