@@ -81,6 +81,14 @@
 			"description": "Stops you from saying naughty words."
 		},
 		{
+			"name": "panelhider.jar",
+			"plugins": ["com.spoon.panelhider.PanelHiderPlugin"],
+			"version": "1.0.0",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/panelhider.jar",
+			"hash": "d76e1ef12777c7ad38e8d7e3e9d39c60a979fb10e9d462aa67199c90a9b292ea",
+			"description": "Hides panels via tooltip text"
+		},
+		{
 			"name": "reorderprayers.jar",
 			"plugins": ["com.spoon.reorderprayers.ReorderPrayersPlugin"],
 			"version": "1.0.2",
@@ -99,9 +107,9 @@
 		{
 			"name": "spoonexternalmanager.jar",
 			"plugins": ["com.spoon.spoonexternalmanager.SpoonExternalManager"],
-			"version": "1.0.6",
+			"version": "1.0.7",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonexternalmanager.jar",
-			"hash": "fbcf738e84af89dd2764bc6f01c549a266dba07f91d15da9a1d45948f081e6fa",
+			"hash": "30c13c66f8f53389a8eff64c0e29396b8d0a436e349bf6a56a4516e9d6e7fb79",
 			"description": "Loads plugins from repos"
 		},
 		{
