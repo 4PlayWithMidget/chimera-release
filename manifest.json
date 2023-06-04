@@ -107,17 +107,17 @@
 		{
 			"name": "spoonexternalmanager.jar",
 			"plugins": ["com.spoon.spoonexternalmanager.SpoonExternalManager"],
-			"version": "1.0.7",
+			"version": "1.0.8",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonexternalmanager.jar",
-			"hash": "0c7702d88934b86b81a23dd27cde47d79989df8162070ffd25fcd563d6b5168c",
+			"hash": "ae36469a522419f45d441428a7a46e85ccf5ffcec723aeee7dfbbe3b59a3c26c",
 			"description": "Loads plugins from repos"
 		},
 		{
 			"name": "spoonezswaps.jar",
 			"plugins": ["com.spoon.spoonezswaps.SpoonEzSwapsPlugin"],
-			"version": "1.0.3",
+			"version": "1.0.4",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonezswaps.jar",
-			"hash": "1afb98d57812e5cb3df1a69863b86df8e5002168907e73ded493b9fc1c98828c",
+			"hash": "e0558023ab697314734d7e9dceec197c5caca16502693d616cad706f61977a67",
 			"description": "All in 1 swaps plugin."
 		},
 		{
