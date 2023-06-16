@@ -3,9 +3,9 @@
 		{
 			"name": "alchemicalhydra.jar",
 			"plugins": ["com.spoon.alchemicalhydra.HydraPlugin"],
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/alchemicalhydra.jar",
-			"hash": "37cf49657c6b44c5608e0e7fc3ce2be38351fe0486ffbd07e5e8ccb64f3181a2",
+			"hash": "2dc5df2ec23227e5c5eba59eb608384a6c1391dddd03826835ed2b6ab4b71916",
 			"description": "An overlay plugin for the Alchemical Hydra boss."
 		},
 		{
@@ -35,9 +35,9 @@
 		{
 			"name": "developertools.jar",
 			"plugins": ["com.spoon.developertools.ToolsPlugin"],
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/developertools.jar",
-			"hash": "9099654bf0979f2f6760041e5ac3ff4595a4eec89914b0ffc15e3ac9c811799c",
+			"hash": "f0977e6bd2f827e71ecaa0fdd99dfb25d600f64e63670a13ee5da22babca63e5",
 			"description": "Additional developer tools for plugin development."
 		},
 		{
@@ -51,17 +51,17 @@
 		{
 			"name": "gwdticktimers.jar",
 			"plugins": ["com.spoon.godwarsticktimers.GodWarsTickTimersPlugin"],
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/gwdticktimers.jar",
-			"hash": "f22f829499f870ad8ae67203f131708c9694eaf8d2794f3bd4a6e17dba24b518",
+			"hash": "b582a6fc7493e942e0301813518f0acff7faaba89fb7548135aab8504a48fcd0",
 			"description": "Overlay plugin for the GWD bosses."
 		},
 		{
 			"name": "jadhelper.jar",
 			"plugins": ["com.spoon.spoonjadhelper.SpoonJadHelperPlugin"],
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/jadhelper.jar",
-			"hash": "286d4103bb799cefe3d102dd1fe1ca804015a914b56289274dc60da0448a97ab",
+			"hash": "a6e710f4468e2c8b6c926a7acf3561c1f179ceaf2f0bf37a1018b10703ed26a1",
 			"description": "Plugin for those who cannot do Jad."
 		},
 		{
@@ -89,14 +89,6 @@
 			"description": "Hides panels via tooltip text"
 		},
 		{
-			"name": "reorderprayers.jar",
-			"plugins": ["com.spoon.reorderprayers.ReorderPrayersPlugin"],
-			"version": "1.0.2",
-			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/reorderprayers.jar",
-			"hash": "62a6b83971417e8d6713b08f2c62f78c345506a462f05d58656e2e9abeb663dd",
-			"description": "Reorder the prayers displayed on the Prayer panel."
-		},
-		{
 			"name": "specbar.jar",
 			"plugins": ["com.spoon.specbar.SpecBarPlugin"],
 			"version": "1.0.2",
@@ -107,17 +99,17 @@
 		{
 			"name": "spoonexternalmanager.jar",
 			"plugins": ["com.spoon.spoonexternalmanager.SpoonExternalManager"],
-			"version": "1.0.8",
+			"version": "1.1.0",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonexternalmanager.jar",
-			"hash": "ae36469a522419f45d441428a7a46e85ccf5ffcec723aeee7dfbbe3b59a3c26c",
+			"hash": "92798d16cb0e3775a301e0e957a50320107493b82b607b351ce8db9a4a20efd0",
 			"description": "Loads plugins from repos"
 		},
 		{
 			"name": "spoonezswaps.jar",
 			"plugins": ["com.spoon.spoonezswaps.SpoonEzSwapsPlugin"],
-			"version": "1.0.4",
+			"version": "1.0.5",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonezswaps.jar",
-			"hash": "e0558023ab697314734d7e9dceec197c5caca16502693d616cad706f61977a67",
+			"hash": "f9cc83aa763745214257be6026e927c89a882895881990f617b75c3323f6f4ce",
 			"description": "All in 1 swaps plugin."
 		},
 		{
@@ -139,9 +131,9 @@
 		{
 			"name": "spoonnightmare.jar",
 			"plugins": ["com.spoon.spoonnightmare.SpoonNightmarePlugin"],
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonnightmare.jar",
-			"hash": "efc0eadab5216383cbe25a15cb5f5b46d1e3d28631f081167b08d39292bf88f8",
+			"hash": "774b552470c6f3b306946b386b3233d0ceedca7da66330441d8af23d32262232",
 			"description": "Best Nightmare plugin ever."
 		},
 		{
@@ -155,9 +147,9 @@
 		{
 			"name": "spoontob.jar",
 			"plugins": ["com.spoon.spoontob.SpoonTobPlugin"],
-			"version": "1.0.3",
+			"version": "1.0.4",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoontob.jar",
-			"hash": "f3ba5a564c124a1d459fc14c5a5a1b66630a5246a0e8b762c419fab6cee57da3",
+			"hash": "01c968fa29b82f7312d689cefeeda811a2081e1d8739c0b4d6dfaf919019d621",
 			"description": "Best ToB plugin ever."
 		},
 		{
