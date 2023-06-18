@@ -33,14 +33,6 @@
 			"description": "A helper plugin for the Cerberus boss. Comes with overlays and auto prayers."
 		},
 		{
-			"name": "developertools.jar",
-			"plugins": ["com.spoon.developertools.ToolsPlugin"],
-			"version": "1.0.3",
-			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/developertools.jar",
-			"hash": "f0977e6bd2f827e71ecaa0fdd99dfb25d600f64e63670a13ee5da22babca63e5",
-			"description": "Additional developer tools for plugin development."
-		},
-		{
 			"name": "fightcave.jar",
 			"plugins": ["com.spoon.fightcave.FightCavePlugin"],
 			"version": "1.0.0",
@@ -97,11 +89,19 @@
 			"description": "Adds a spec bar to every weapon."
 		},
 		{
+			"name": "specorb.jar",
+			"plugins": ["com.spoon.specorb.SpecOrbPlugin"],
+			"version": "1.0.0",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/specorb.jar",
+			"hash": "7e30ed10d1d88ef830b01e1dd876441b6183da8cc09d5876a4aa4ae2198d6391",
+			"description": "Allows you to 1 tick the spec orb."
+		},
+		{
 			"name": "spoonexternalmanager.jar",
 			"plugins": ["com.spoon.spoonexternalmanager.SpoonExternalManager"],
-			"version": "1.1.0",
+			"version": "1.1.1",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonexternalmanager.jar",
-			"hash": "92798d16cb0e3775a301e0e957a50320107493b82b607b351ce8db9a4a20efd0",
+			"hash": "3cb7d366d03d4046e5a08ec56a8414ecde9a89bd21e4a843ef301893be5c4858",
 			"description": "Loads plugins from repos"
 		},
 		{
@@ -147,9 +147,9 @@
 		{
 			"name": "spoontob.jar",
 			"plugins": ["com.spoon.spoontob.SpoonTobPlugin"],
-			"version": "1.0.4",
+			"version": "1.0.5",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoontob.jar",
-			"hash": "01c968fa29b82f7312d689cefeeda811a2081e1d8739c0b4d6dfaf919019d621",
+			"hash": "a82721402be735ec7d30d4711ddc00843c277dab263f8ab610fdc7573183f19f",
 			"description": "Best ToB plugin ever."
 		},
 		{
@@ -159,6 +159,14 @@
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoontobstats.jar",
 			"hash": "f576f3b61fe6aef70241d8f0f42b8b3fccc63db10ec03d456e74cb3d367fe8e0",
 			"description": "Best ToB time plugin ever."
+		},
+		{
+			"name": "streamerswitch.jar",
+			"plugins": ["com.spoon.streamerswitch.StreamerSwitchPlugin"],
+			"version": "1.0.0",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/streamerswitch.jar",
+			"hash": "5fd50e6ce92594579cc15d8cf0e5e7a4f4709e271980a09a86480470633a0e55",
+			"description": "Disables all external plugins and hides manager."
 		},
 		{
 			"name": "zulrah.jar",
