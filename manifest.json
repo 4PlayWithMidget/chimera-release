@@ -49,6 +49,14 @@
 			"description": "Overlay plugin for the GWD bosses."
 		},
 		{
+			"name": "hallowedhelper.jar",
+			"plugins": ["com.spoon.hallowedhelper.HallowedHelperPlugin"],
+			"version": "1.0.0",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/hallowedhelper.jar",
+			"hash": "d44966beb4d3b629126bdcf8ebdb0948a32e77f7eb05a966728dc570c1e191db",
+			"description": "Hallowed Sepulchre helper with tons of overlays"
+		},
+		{
 			"name": "jadhelper.jar",
 			"plugins": ["com.spoon.spoonjadhelper.SpoonJadHelperPlugin"],
 			"version": "1.0.2",
@@ -81,6 +89,14 @@
 			"description": "Hides panels via tooltip text"
 		},
 		{
+			"name": "smithing.jar",
+			"plugins": ["com.spoon.smithing.SmithingPlugin"],
+			"version": "1.0.0",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/smithing.jar",
+			"hash": "47b6f4b9ce9ca6d789e9b3f9d3c6d78cffe678208b8d074e74a4f6a7c0c23b1b",
+			"description": "Easy mode smithing."
+		},
+		{
 			"name": "specbar.jar",
 			"plugins": ["com.spoon.specbar.SpecBarPlugin"],
 			"version": "1.0.2",
@@ -95,6 +111,14 @@
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/specorb.jar",
 			"hash": "7e30ed10d1d88ef830b01e1dd876441b6183da8cc09d5876a4aa4ae2198d6391",
 			"description": "Allows you to 1 tick the spec orb."
+		},
+		{
+			"name": "spooncox.jar",
+			"plugins": ["com.spoon.spooncox.SpoonCoxPlugin"],
+			"version": "1.0.0",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spooncox.jar",
+			"hash": "16371bc4a6a423301f137a79ee4e941309bf2188cc595e85d73de2c91790963c",
+			"description": "Additional stuff for CoX."
 		},
 		{
 			"name": "spoonexternalmanager.jar",
