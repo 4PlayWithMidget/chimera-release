@@ -89,6 +89,14 @@
 			"description": "Hides panels via tooltip text"
 		},
 		{
+			"name": "pvpplayerindicators.jar",
+			"plugins": ["com.spoon.pvpplayerindicators.PvPPlayerIndicatorsPlugin"],
+			"version": "1.0.0",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/pvpplayerindicators.jar",
+			"hash": "05d81fe2dc5f152a0417af7582406a83c50c1791c0b83c30ae50bc8cdb30e6ba",
+			"description": "Additional player indicators features for PvP"
+		},
+		{
 			"name": "smithing.jar",
 			"plugins": ["com.spoon.smithing.SmithingPlugin"],
 			"version": "1.0.0",
