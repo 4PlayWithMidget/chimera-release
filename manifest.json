@@ -91,9 +91,9 @@
 		{
 			"name": "pvpplayerindicators.jar",
 			"plugins": ["com.spoon.pvpplayerindicators.PvPPlayerIndicatorsPlugin"],
-			"version": "1.0.0",
+			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/pvpplayerindicators.jar",
-			"hash": "05d81fe2dc5f152a0417af7582406a83c50c1791c0b83c30ae50bc8cdb30e6ba",
+			"hash": "9638b573d2335e48cd95613834f09b71fbb90ea8ac2c833ff0107625deef5d7e",
 			"description": "Additional player indicators features for PvP"
 		},
 		{
@@ -123,9 +123,9 @@
 		{
 			"name": "spooncox.jar",
 			"plugins": ["com.spoon.spooncox.SpoonCoxPlugin"],
-			"version": "1.0.0",
+			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spooncox.jar",
-			"hash": "16371bc4a6a423301f137a79ee4e941309bf2188cc595e85d73de2c91790963c",
+			"hash": "9d5b28cdace2a794c13b0401257c4d50841eb4df61ea8ed61c59f9a241725227",
 			"description": "Additional stuff for CoX."
 		},
 		{
@@ -179,9 +179,9 @@
 		{
 			"name": "spoontob.jar",
 			"plugins": ["com.spoon.spoontob.SpoonTobPlugin"],
-			"version": "1.0.5",
+			"version": "1.0.6",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoontob.jar",
-			"hash": "a82721402be735ec7d30d4711ddc00843c277dab263f8ab610fdc7573183f19f",
+			"hash": "32f0714e5d2dbd45fab8f53011082e2a406dba29105b9efbd7f7d9a962476941",
 			"description": "Best ToB plugin ever."
 		},
 		{
