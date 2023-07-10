@@ -11,9 +11,9 @@
 		{
 			"name": "aoe.jar",
 			"plugins": ["com.spoon.aoe.ProjectilePlugin"],
-			"version": "1.0.4",
+			"version": "1.0.5",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/aoe.jar",
-			"hash": "0ceca02825a40d3b04b0d8d248c1fc7aa05f63c01b7b679bde048ecd0037a987",
+			"hash": "6db6aa61d7b14d9f1b61b2eefd3d473fda9880f769173661d2a7768a5a250116",
 			"description": "Displays where AoE attacks are going to land."
 		},
 		{
@@ -139,9 +139,9 @@
 		{
 			"name": "spoonezswaps.jar",
 			"plugins": ["com.spoon.spoonezswaps.SpoonEzSwapsPlugin"],
-			"version": "1.0.5",
+			"version": "1.0.6",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonezswaps.jar",
-			"hash": "f9cc83aa763745214257be6026e927c89a882895881990f617b75c3323f6f4ce",
+			"hash": "e649b2183c0cd7911fbbcc606f020c596710d2c6000925912ea2c50a093570a3",
 			"description": "All in 1 swaps plugin."
 		},
 		{
@@ -179,9 +179,9 @@
 		{
 			"name": "spoontob.jar",
 			"plugins": ["com.spoon.spoontob.SpoonTobPlugin"],
-			"version": "1.0.6",
+			"version": "1.0.7",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoontob.jar",
-			"hash": "32f0714e5d2dbd45fab8f53011082e2a406dba29105b9efbd7f7d9a962476941",
+			"hash": "5aa570537ecf871ce12a4c792633eeef2eca2ee50e1f13fe5d78d8ebef946c2a",
 			"description": "Best ToB plugin ever."
 		},
 		{
