@@ -43,9 +43,9 @@
 		{
 			"name": "developertools.jar",
 			"plugins": ["com.spoon.developertools.ToolsPlugin"],
-			"version": "1.0.4",
+			"version": "1.0.5",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/developertools.jar",
-			"hash": "7d96afac6fa995221681ffc8c3524a915e1bfe85405f3c92cc7ca41f4ff9e96c",
+			"hash": "b6e675d75456e1870a0fdb9b00b69833e4fdfb82e991e5fe363b8f67dcaf50aa",
 			"description": "Additional developer tools for plugin development."
 		},
 		{
