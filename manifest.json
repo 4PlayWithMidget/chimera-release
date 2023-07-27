@@ -33,6 +33,22 @@
 			"description": "A helper plugin for the Cerberus boss. Comes with overlays and auto prayers."
 		},
 		{
+			"name": "decorhighlight.jar",
+			"plugins": ["com.spoon.decorhighlight.DecorHighlightPlugin"],
+			"version": "1.0.0",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/decorhighlight.jar",
+			"hash": "db6054bba77ca97ee74cca621887178984ae7f09a6e9e56ddf5f9630d2e711a8",
+			"description": "Highlights a custom list of graphic objects and ground decorations."
+		},
+		{
+			"name": "developertools.jar",
+			"plugins": ["com.spoon.developertools.ToolsPlugin"],
+			"version": "1.0.4",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/developertools.jar",
+			"hash": "7d96afac6fa995221681ffc8c3524a915e1bfe85405f3c92cc7ca41f4ff9e96c",
+			"description": "Additional developer tools for plugin development."
+		},
+		{
 			"name": "fightcave.jar",
 			"plugins": ["com.spoon.fightcave.FightCavePlugin"],
 			"version": "1.0.0",
