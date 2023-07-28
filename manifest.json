@@ -35,17 +35,17 @@
 		{
 			"name": "decorhighlight.jar",
 			"plugins": ["com.spoon.decorhighlight.DecorHighlightPlugin"],
-			"version": "1.0.0",
+			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/decorhighlight.jar",
-			"hash": "db6054bba77ca97ee74cca621887178984ae7f09a6e9e56ddf5f9630d2e711a8",
+			"hash": "ed665026cd3e5e37c250c3f92faea96dab4a4734198d54cfd288c42a92b440fe",
 			"description": "Highlights a custom list of graphic objects and ground decorations."
 		},
 		{
 			"name": "developertools.jar",
 			"plugins": ["com.spoon.developertools.ToolsPlugin"],
-			"version": "1.0.6",
+			"version": "1.0.7",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/developertools.jar",
-			"hash": "a32fd309bb47460c4cdcd04ee6f804cf4d4e886589c8d1018e1ef6923d4c583e",
+			"hash": "addc4810d25cbb60865c598813e850479e0a92009b854427048faa8f1215c13b",
 			"description": "Additional developer tools for plugin development."
 		},
 		{
