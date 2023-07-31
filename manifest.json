@@ -35,9 +35,9 @@
 		{
 			"name": "decorhighlight.jar",
 			"plugins": ["com.spoon.decorhighlight.DecorHighlightPlugin"],
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/decorhighlight.jar",
-			"hash": "ed665026cd3e5e37c250c3f92faea96dab4a4734198d54cfd288c42a92b440fe",
+			"hash": "11afe675832196eb453e2b2dfe6803b5c70fb4cf318c3bab0db7c8a1c3c1d459",
 			"description": "Highlights a custom list of graphic objects and ground decorations."
 		},
 		{
