@@ -49,6 +49,14 @@
 			"description": "Additional developer tools for plugin development."
 		},
 		{
+			"name": "dt2.jar",
+			"plugins": ["com.spoon.dt2.Dt2Plugin"],
+			"version": "1.0.0",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/dt2.jar",
+			"hash": "d3dd48f13f998af9c93083611c709d7986f9a0776996719b6b116abbfe0ff2dd",
+			"description": "Plugin for DT2 bosses."
+		},
+		{
 			"name": "fightcave.jar",
 			"plugins": ["com.spoon.fightcave.FightCavePlugin"],
 			"version": "1.0.0",
