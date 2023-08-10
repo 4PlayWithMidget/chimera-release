@@ -51,9 +51,9 @@
 		{
 			"name": "dt2.jar",
 			"plugins": ["com.spoon.dt2.Dt2Plugin"],
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/dt2.jar",
-			"hash": "00daf375c0661a86ba7f491c73b7ebd1686f64adfa6806457f698ee90519ab37",
+			"hash": "c541520c648183410f9ea66e771075a88a56482414b545a0148d947eec4cc351",
 			"description": "Plugin for DT2 bosses."
 		},
 		{
