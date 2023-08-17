@@ -203,17 +203,17 @@
 		{
 			"name": "spoontob.jar",
 			"plugins": ["com.spoon.spoontob.SpoonTobPlugin"],
-			"version": "1.1.5",
+			"version": "1.1.6",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoontob.jar",
-			"hash": "f40e441ca8d74ffd6aa0a442886b63c3245e559cf630b2fcb3af9816fd2db36a",
+			"hash": "83b979514652bdf4e5429a2809fa8f7f9fb831dbe4275cb94c4e94f44d89706e",
 			"description": "Best ToB plugin ever."
 		},
 		{
 			"name": "spoontobstats.jar",
 			"plugins": ["com.spoon.spoontobstats.SpoonTobStatsPlugin"],
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoontobstats.jar",
-			"hash": "e1c204b8e1c6f727354129198e794cffbba98e6970fe1507c9398be1fd2c0bf1",
+			"hash": "e5f594ae7acf436840bc2cd67d2fc69d4effc3917bffe1b955e5b6ae307caca8",
 			"description": "Best ToB time plugin ever."
 		},
 		{
