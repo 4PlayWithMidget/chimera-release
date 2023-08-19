@@ -51,9 +51,9 @@
 		{
 			"name": "dt2.jar",
 			"plugins": ["com.spoon.dt2.Dt2Plugin"],
-			"version": "1.0.3",
+			"version": "1.0.4",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/dt2.jar",
-			"hash": "8e35a813dd2bc0203e313d6c06ed9dc68be8ffe530e96aa39e88602fdde5f44a",
+			"hash": "84521c113b4433d0a4bf5c32c666ef0f1620abb5b411f3af98406682ebfc1e8f",
 			"description": "Plugin for DT2 bosses."
 		},
 		{
@@ -203,9 +203,9 @@
 		{
 			"name": "spoontob.jar",
 			"plugins": ["com.spoon.spoontob.SpoonTobPlugin"],
-			"version": "1.1.6",
+			"version": "1.1.7",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoontob.jar",
-			"hash": "83b979514652bdf4e5429a2809fa8f7f9fb831dbe4275cb94c4e94f44d89706e",
+			"hash": "5b5ce78d5528b427dab6b1fbb47591ef0541689bebb2bd0d1a8207ecbdeb7506",
 			"description": "Best ToB plugin ever."
 		},
 		{
