@@ -131,17 +131,17 @@
 		{
 			"name": "specbar.jar",
 			"plugins": ["com.spoon.specbar.SpecBarPlugin"],
-			"version": "1.0.3",
+			"version": "1.0.4",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/specbar.jar",
-			"hash": "3027a65b10a00a1240559e315ee7c333e6a0169a4e0562cf07e6539bf00dd0f7",
+			"hash": "d3903df1a6e5f7c21f195f72c899f9da4bc21731246bacb10e14258c929e3326",
 			"description": "Adds a spec bar to every weapon."
 		},
 		{
 			"name": "specorb.jar",
 			"plugins": ["com.spoon.specorb.SpecOrbPlugin"],
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/specorb.jar",
-			"hash": "c3fd58483695a8ddaacae0743f009c0163c21a0d3221480d63a4d8e1e1f29e1b",
+			"hash": "acb59c157ab48d8e55284dae46c15406026208a30d3600f8d865a780da415ec3",
 			"description": "Allows you to 1 tick the spec orb."
 		},
 		{
@@ -163,9 +163,9 @@
 		{
 			"name": "spoonezswaps.jar",
 			"plugins": ["com.spoon.spoonezswaps.SpoonEzSwapsPlugin"],
-			"version": "1.0.7",
+			"version": "1.0.8",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonezswaps.jar",
-			"hash": "69b0af1af6bd0d1d13372f2a0086055f5a308e6b5dc60711963ec4ac1e58cc58",
+			"hash": "49195ac48a7daa9389117848deaf8079d2e573f3e5127bce9b96037668859ff7",
 			"description": "All in 1 swaps plugin."
 		},
 		{
@@ -203,9 +203,9 @@
 		{
 			"name": "spoontob.jar",
 			"plugins": ["com.spoon.spoontob.SpoonTobPlugin"],
-			"version": "1.1.7",
+			"version": "1.1.8",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoontob.jar",
-			"hash": "5b5ce78d5528b427dab6b1fbb47591ef0541689bebb2bd0d1a8207ecbdeb7506",
+			"hash": "4bea4e59c8c306c973b0ab0983b0827fb81ef3c20f4e045fbfa3f1194daeed1f",
 			"description": "Best ToB plugin ever."
 		},
 		{
