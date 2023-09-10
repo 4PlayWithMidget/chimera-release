@@ -203,9 +203,9 @@
 		{
 			"name": "spoontob.jar",
 			"plugins": ["com.spoon.spoontob.SpoonTobPlugin"],
-			"version": "1.1.8",
+			"version": "1.1.9",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoontob.jar",
-			"hash": "4bea4e59c8c306c973b0ab0983b0827fb81ef3c20f4e045fbfa3f1194daeed1f",
+			"hash": "5a0954221772b637c04ac1d813d12a8201b5a806c6bbd93600bef18e40a0e6ff",
 			"description": "Best ToB plugin ever."
 		},
 		{
