@@ -117,7 +117,7 @@
 			"plugins": ["com.spoon.pvpplayerindicators.PvPPlayerIndicatorsPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/pvpplayerindicators.jar",
-			"hash": "9638b573d2335e48cd95613834f09b71fbb90ea8ac2c833ff0107625deef5d7e",
+			"hash": "a6709144ed7ce0e825459e43b2507cdcedb5104f680b73d88e16080370ba6299",
 			"description": "Additional player indicators features for PvP"
 		},
 		{
@@ -163,9 +163,9 @@
 		{
 			"name": "spoonezswaps.jar",
 			"plugins": ["com.spoon.spoonezswaps.SpoonEzSwapsPlugin"],
-			"version": "1.0.8",
+			"version": "1.0.9",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonezswaps.jar",
-			"hash": "49195ac48a7daa9389117848deaf8079d2e573f3e5127bce9b96037668859ff7",
+			"hash": "a04935c435e6604318d0e0ba99b10fcd95ad57f3b78db333020d4f3a8e051c59",
 			"description": "All in 1 swaps plugin."
 		},
 		{
@@ -195,17 +195,17 @@
 		{
 			"name": "spoonobjecthider.jar",
 			"plugins": ["com.spoon.spoonobjecthider.SpoonObjectHiderPlugin"],
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonobjecthider.jar",
-			"hash": "4af364c3c38edaecadf5136255b53294d68cccb4f0b9f54f3837a5ac5f7c496d",
+			"hash": "2bd2a1bac94aeb8a5e978a14d324cdbc866cdaf46c8c71e61ea9cf38e2cc7daf",
 			"description": "Hides game objects, ground objects, and presets."
 		},
 		{
 			"name": "spoontob.jar",
 			"plugins": ["com.spoon.spoontob.SpoonTobPlugin"],
-			"version": "1.1.9",
+			"version": "1.2.0",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoontob.jar",
-			"hash": "5a0954221772b637c04ac1d813d12a8201b5a806c6bbd93600bef18e40a0e6ff",
+			"hash": "9b4cf874af0d2cdbb8008bddfe13e4d21b730ed630910fee88735b5d3234a735",
 			"description": "Best ToB plugin ever."
 		},
 		{
