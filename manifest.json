@@ -131,25 +131,25 @@
 		{
 			"name": "specbar.jar",
 			"plugins": ["com.spoon.specbar.SpecBarPlugin"],
-			"version": "1.0.4",
+			"version": "1.0.5",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/specbar.jar",
-			"hash": "d3903df1a6e5f7c21f195f72c899f9da4bc21731246bacb10e14258c929e3326",
+			"hash": "5bc65fe3f34bc6b600f63b539137c6be82652ef44d6dc03696d5e839ec3990fc",
 			"description": "Adds a spec bar to every weapon."
 		},
 		{
 			"name": "specorb.jar",
 			"plugins": ["com.spoon.specorb.SpecOrbPlugin"],
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/specorb.jar",
-			"hash": "acb59c157ab48d8e55284dae46c15406026208a30d3600f8d865a780da415ec3",
+			"hash": "8f655ef0e19f53998640160265b6feb13017a0b39ce6baa37a0e5a75d8a43e95",
 			"description": "Allows you to 1 tick the spec orb."
 		},
 		{
 			"name": "spooncox.jar",
 			"plugins": ["com.spoon.spooncox.SpoonCoxPlugin"],
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spooncox.jar",
-			"hash": "9d5b28cdace2a794c13b0401257c4d50841eb4df61ea8ed61c59f9a241725227",
+			"hash": "51d419bb676704f1a9e94fcb2f2467c55cbc2781d93ac174556dc09e40d35b5b",
 			"description": "Additional stuff for CoX."
 		},
 		{
@@ -163,9 +163,9 @@
 		{
 			"name": "spoonezswaps.jar",
 			"plugins": ["com.spoon.spoonezswaps.SpoonEzSwapsPlugin"],
-			"version": "1.0.9",
+			"version": "1.1.0",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonezswaps.jar",
-			"hash": "a04935c435e6604318d0e0ba99b10fcd95ad57f3b78db333020d4f3a8e051c59",
+			"hash": "8758c9758a79c7101a3defa3b5079e272a34bd7358c63860fd4c37e70f085e76",
 			"description": "All in 1 swaps plugin."
 		},
 		{
@@ -203,9 +203,9 @@
 		{
 			"name": "spoontob.jar",
 			"plugins": ["com.spoon.spoontob.SpoonTobPlugin"],
-			"version": "1.2.0",
+			"version": "1.2.1",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoontob.jar",
-			"hash": "9b4cf874af0d2cdbb8008bddfe13e4d21b730ed630910fee88735b5d3234a735",
+			"hash": "eda133a055297f63d904801de361a6ec611f7d9728fd037c4eab07db9a72bb2a",
 			"description": "Best ToB plugin ever."
 		},
 		{
