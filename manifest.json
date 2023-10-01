@@ -115,9 +115,9 @@
 		{
 			"name": "pvpplayerindicators.jar",
 			"plugins": ["com.spoon.pvpplayerindicators.PvPPlayerIndicatorsPlugin"],
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/pvpplayerindicators.jar",
-			"hash": "a6709144ed7ce0e825459e43b2507cdcedb5104f680b73d88e16080370ba6299",
+			"hash": "ba3e62e910fbaf44266de981096b15eea1ad40b5a0d3dab4354e47b27d60083d",
 			"description": "Additional player indicators features for PvP"
 		},
 		{
@@ -127,6 +127,14 @@
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/smithing.jar",
 			"hash": "47b6f4b9ce9ca6d789e9b3f9d3c6d78cffe678208b8d074e74a4f6a7c0c23b1b",
 			"description": "Easy mode smithing."
+		},
+		{
+			"name": "socket.jar",
+			"plugins": ["com.spoon.socket.SocketPlugin"],
+			"version": "1.0.0",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/socket.jar",
+			"hash": "e84fd9f33dffb41c07bfad11f65aceec1d280b03f31133376977351704af7cfc",
+			"description": "Allows communication between other players for sotetseg maze, special attacks, and more."
 		},
 		{
 			"name": "specbar.jar",
@@ -147,9 +155,9 @@
 		{
 			"name": "spooncox.jar",
 			"plugins": ["com.spoon.spooncox.SpoonCoxPlugin"],
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spooncox.jar",
-			"hash": "51d419bb676704f1a9e94fcb2f2467c55cbc2781d93ac174556dc09e40d35b5b",
+			"hash": "df7eb9fa089dc0c65b4d75ac727a78d0f64f2c37b27776e0225fa971939012ae",
 			"description": "Additional stuff for CoX."
 		},
 		{
@@ -179,9 +187,9 @@
 		{
 			"name": "spoonnex.jar",
 			"plugins": ["com.spoon.spoonnex.SpoonNexPlugin"],
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/spoonnex.jar",
-			"hash": "3f39b1796c4586c26672f3f904bc5dd8a08356c3cb55195fe08751221e5cf366",
+			"hash": "b8749d9582761e3e2075cea9604d4b9fc5e41d8565f3aaf647785352b36c4845",
 			"description": "Best Nex plugin."
 		},
 		{
