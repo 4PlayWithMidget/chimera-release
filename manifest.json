@@ -189,7 +189,7 @@
 			"plugins": ["com.spoon.socketkph.KillSpeedPlugin"],
 			"version": "1.0.0",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/socketkph.jar",
-			"hash": "15bb9da57f4f1559d2c5bb418976325786eef09a2276da3bb11c1c6fabf691a8",
+			"hash": "81cacfa7f05c58131667a0da2d2318d8a5b5e27987c53481ed8c8d717a99b047",
 			"description": "Tracks kills per hour (KPH) using socket."
 		},
 		{
