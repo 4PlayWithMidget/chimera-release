@@ -131,9 +131,9 @@
 		{
 			"name": "socket.jar",
 			"plugins": ["com.spoon.socket.SocketPlugin","com.spoon.socket.plugins.sChatPlugin","com.spoon.socket.plugins.DKSPlugin","com.spoon.socket.plugins.KillSpeedPlugin","com.spoon.socket.plugins.PlayerStatusPlugin","com.spoon.socket.plugins.PlayerStatusExtendedPlugin","com.spoon.socket.plugins.SocketBAPlugin","com.spoon.socket.plugins.SocketBossTimersPlugin","com.spoon.socket.plugins.SocketDpsCounterPlugin","com.spoon.socket.plugins.SocketHealingPlugin","com.spoon.socket.plugins.SotetsegPlugin","com.spoon.socket.plugins.SocketWorldHopperPlusPlugin"],
-			"version": "1.0.0",
+			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/socket.jar",
-			"hash": "e84fd9f33dffb41c07bfad11f65aceec1d280b03f31133376977351704af7cfc",
+			"hash": "aa8177bd9fee824a6d9c959abf105aa6c838952c16673efa24044c092deba2e8",
 			"description": "Allows communication between other players for sotetseg maze, special attacks, and more."
 		},
 		{
