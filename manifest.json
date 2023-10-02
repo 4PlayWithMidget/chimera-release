@@ -130,11 +130,99 @@
 		},
 		{
 			"name": "socket.jar",
-			"plugins": ["com.spoon.socket.SocketPlugin","com.spoon.socket.plugins.sChatPlugin","com.spoon.socket.plugins.DKSPlugin","com.spoon.socket.plugins.KillSpeedPlugin","com.spoon.socket.plugins.PlayerStatusPlugin","com.spoon.socket.plugins.PlayerStatusExtendedPlugin","com.spoon.socket.plugins.SocketBAPlugin","com.spoon.socket.plugins.SocketBossTimersPlugin","com.spoon.socket.plugins.SocketDpsCounterPlugin","com.spoon.socket.plugins.SocketHealingPlugin","com.spoon.socket.plugins.SotetsegPlugin","com.spoon.socket.plugins.SocketWorldHopperPlusPlugin"],
-			"version": "1.0.1",
+			"plugins": ["com.spoon.socket.SocketPlugin"],
+			"version": "1.0.0",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/socket.jar",
-			"hash": "aa8177bd9fee824a6d9c959abf105aa6c838952c16673efa24044c092deba2e8",
+			"hash": "2c1b8f71600b0079d9015ddf64065e682fd362161d84d897a0ce1f0bea9fd652",
 			"description": "Allows communication between other players for sotetseg maze, special attacks, and more."
+		},
+		{
+			"name": "socketba.jar",
+			"plugins": ["com.spoon.socketba.SocketBAPlugin"],
+			"version": "1.0.0",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/socketba.jar",
+			"hash": "ece8f5f26a26cf37e6a3d4208f45583524b802c3928737a8574d0d8f0916ce18",
+			"description": "Allows communication between other players at Barbarian Assault."
+		},
+		{
+			"name": "socketbosstimer.jar",
+			"plugins": ["com.spoon.socketbosstimer.SocketBossTimersPlugin"],
+			"version": "1.0.0",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/socketbosstimer.jar",
+			"hash": "43c666b9a93ffa574a4c5d32e06e593bbaee33cdc17fbcc80509154042553b14",
+			"description": "Uses Socket to track boss respawn timers in multiple worlds"
+		},
+		{
+			"name": "socketchat.jar",
+			"plugins": ["com.spoon.socketchat.sChatPlugin"],
+			"version": "1.0.0",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/socketchat.jar",
+			"hash": "17fa31583d76aef196f22a22a4680cd2636205c942b63faa99d751cd59fee95a",
+			"description": "Allows communication between other players."
+		},
+		{
+			"name": "socketdks.jar",
+			"plugins": ["com.spoon.socketdks.DKSPlugin"],
+			"version": "1.0.0",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/socketdks.jar",
+			"hash": "8e1a41cfbf9df7c95ea1543995950163c2afac74d3e72bf548d552116df2a4dd",
+			"description": "Sends information across Socket at Dagannoth Kings."
+		},
+		{
+			"name": "socketDPS.jar",
+			"plugins": ["com.spoon.socketDPS.SocketDpsCounterPlugin"],
+			"version": "1.0.0",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/socketDPS.jar",
+			"hash": "0e8203d7c1bf4225716796495ea86f36845b9580e0313f7e3f016447d416a3ec",
+			"description": "Tracks damage of every player in Socket"
+		},
+		{
+			"name": "sockethealing.jar",
+			"plugins": ["com.spoon.sockethealing.SocketHealingPlugin"],
+			"version": "1.0.0",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/sockethealing.jar",
+			"hash": "7e7c80a1a4f19f4848e06085e94f34f1a86f28e7ec1eb42957645fa101f0e2b5",
+			"description": "Tracks Hitpoints of every player in Socket"
+		},
+		{
+			"name": "socketkph.jar",
+			"plugins": ["com.spoon.socketkph.KillSpeedPlugin"],
+			"version": "1.0.0",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/socketkph.jar",
+			"hash": "15bb9da57f4f1559d2c5bb418976325786eef09a2276da3bb11c1c6fabf691a8",
+			"description": "Tracks kills per hour (KPH) using socket."
+		},
+		{
+			"name": "socketplayerstatus.jar",
+			"plugins": ["com.spoon.socketplayerstatus.PlayerStatusPlugin"],
+			"version": "1.0.0",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/socketplayerstatus.jar",
+			"hash": "bd1e13b1ddd2100c531654754d683c6caa6c64d7225876754789d0f599fb0af5",
+			"description": "Sends information about each player across Socket."
+		},
+		{
+			"name": "socketplayerstatusextended.jar",
+			"plugins": ["com.spoon.socketplayerstatusextended.PlayerStatusExtendedPlugin"],
+			"version": "1.0.0",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/socketplayerstatusextended.jar",
+			"hash": "b80a29645f99119e6a351bd0fad778143f4ef8faa08152dd4fc3258b900d88ba",
+			"description": "Sends rat information about each player across Socket."
+		},
+		{
+			"name": "socketsotetseg.jar",
+			"plugins": ["com.spoon.socketsotetseg.SotetsegPlugin"],
+			"version": "1.0.0",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/socketsotetseg.jar",
+			"hash": "55e6028ab1ffe167db47569499019ce2bdd1baf961aaa65e47c3245a236666f9",
+			"description": "Sotetseg Maze and other stuff."
+		},
+		{
+			"name": "socketworldhopperplus.jar",
+			"plugins": ["com.spoon.socketworldhopperplus.SocketWorldHopperPlusPlugin"],
+			"version": "1.0.0",
+			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/socketworldhopperplus.jar",
+			"hash": "d965de312cb252389719b2ec612e7cea8663a0b0fef9fe30d722138420f1f069",
+			"description": "World Hopper with Socket functionality."
 		},
 		{
 			"name": "specbar.jar",
