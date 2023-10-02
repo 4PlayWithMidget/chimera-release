@@ -141,8 +141,8 @@
 			"plugins": ["com.spoon.socketba.SocketBAPlugin"],
 			"version": "1.0.0",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/socketba.jar",
-			"hash": "ece8f5f26a26cf37e6a3d4208f45583524b802c3928737a8574d0d8f0916ce18",
-			"description": "Allows communication between other players at Barbarian Assault."
+			"hash": "d3432dc2c345abe6189e11d48ee847d0c8ca12c963dfaf5f7750f449e3c88930",
+			"description": "Sends role information to other players at Barbarian Assault."
 		},
 		{
 			"name": "socketbosstimer.jar",
@@ -221,7 +221,7 @@
 			"plugins": ["com.spoon.socketworldhopperplus.SocketWorldHopperPlusPlugin"],
 			"version": "1.0.0",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/socketworldhopperplus.jar",
-			"hash": "d965de312cb252389719b2ec612e7cea8663a0b0fef9fe30d722138420f1f069",
+			"hash": "ddddb84718c7f61342d6ba85e215a66429528169e8aeff5acd6bc927b3b50f0b",
 			"description": "World Hopper with Socket functionality."
 		},
 		{
