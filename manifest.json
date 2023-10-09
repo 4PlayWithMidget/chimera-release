@@ -83,9 +83,9 @@
 		{
 			"name": "jadhelper.jar",
 			"plugins": ["com.spoon.spoonjadhelper.SpoonJadHelperPlugin"],
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/jadhelper.jar",
-			"hash": "a6e710f4468e2c8b6c926a7acf3561c1f179ceaf2f0bf37a1018b10703ed26a1",
+			"hash": "1a947a69eb64d77a74336ce4bb434ae42d088b84e6db1443b9e5f15c90ec4fd5",
 			"description": "Plugin for those who cannot do Jad."
 		},
 		{
