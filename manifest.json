@@ -11,9 +11,9 @@
 		{
 			"name": "aoe.jar",
 			"plugins": ["com.spoon.aoe.ProjectilePlugin"],
-			"version": "1.0.8",
+			"version": "1.0.9",
 			"path": "https://github.com/4PlayWithMidget/plugins-hosting/raw/master/release/aoe.jar",
-			"hash": "9b5b0b60a5c27b0c9558f1ccd2318b509614a6d1b7c686a85a1e0069a2ab56f4",
+			"hash": "66a8e9e7fa926e6ea4b1ee606eec7b635662163d2604959b1957a5cf53d3ace1",
 			"description": "Displays where AoE attacks are going to land."
 		},
 		{
