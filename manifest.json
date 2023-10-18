@@ -35,9 +35,9 @@
 		{
 			"name": "chimeraexternalmanager.jar",
 			"plugins": ["com.chimera.chimeraexternalmanager.ChimeraExternalManager"],
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/chimeraexternalmanager.jar",
-			"hash": "df5488cb1cdfd295921305c09ca9b9cb3d562abcca2b3d3a9492e31145c0aa6c",
+			"hash": "45c3b53a748135fd444ab6082faf9452d887171c0fac4f0f9de74e70efee1107",
 			"description": "Loads plugins from repos"
 		},
 		{
@@ -315,9 +315,9 @@
 		{
 			"name": "streamerswitch.jar",
 			"plugins": ["com.chimera.streamerswitch.StreamerSwitchPlugin"],
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/streamerswitch.jar",
-			"hash": "d5d34f0c168cb771dcd4e38c88c5bbf3bc3bbc28f7d674e45a8eb310c0427627",
+			"hash": "788d9df3afdf25745ae3297058f9fe9e31a29f5d06f84c52f9c9bac25de582c2",
 			"description": "Disables all external plugins and hides manager."
 		},
 		{
