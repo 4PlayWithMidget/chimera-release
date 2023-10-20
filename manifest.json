@@ -275,9 +275,9 @@
 		{
 			"name": "spoonnex.jar",
 			"plugins": ["com.chimera.spoonnex.SpoonNexPlugin"],
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoonnex.jar",
-			"hash": "90b20fb3c6875122599e8171667661bd3298759c576edc263fbee7f6f65a6cea",
+			"hash": "d592ef221e7cc39f2d8ccb244c8009605d8cf445e815c5dfb287b825ca063864",
 			"description": "Best Nex plugin."
 		},
 		{
@@ -299,9 +299,9 @@
 		{
 			"name": "spoontob.jar",
 			"plugins": ["com.chimera.spoontob.SpoonTobPlugin"],
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoontob.jar",
-			"hash": "51011d04da98de3005c155e8dec4b25a0a9489942f4c9e70b6626cef2a35dbb9",
+			"hash": "1143d2eecd6470d373ff1ddb9d571997d2067dfcbdcf58c1c91b8a70cd46b01c",
 			"description": "Best ToB plugin ever."
 		},
 		{
