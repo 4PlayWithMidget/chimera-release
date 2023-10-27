@@ -5,7 +5,7 @@
 			"plugins": ["com.chimera.alchemicalhydra.HydraPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/alchemicalhydra.jar",
-			"hash": "5f978716f4139f6231d976648ed12a83da727a67371591a8f8bdecd1d2881684",
+			"hash": "7bba53dec375a3b715307f1b1076f8b3c651d58cd6c623fbd44d28008d13b83a",
 			"description": "An overlay plugin for the Alchemical Hydra boss."
 		},
 		{
@@ -13,7 +13,7 @@
 			"plugins": ["com.chimera.aoe.ProjectilePlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/aoe.jar",
-			"hash": "f04ad7af38b96c5c57cd65055d9a3ab5c51f0ab90c45ea672a0e55a4e7866785",
+			"hash": "41b8d929dcf069c3d8eb2b7ce1ce0b6a77708484b24c02ab4db1fc22cdcfb8bc",
 			"description": "Displays where AoE attacks are going to land."
 		},
 		{
@@ -21,7 +21,7 @@
 			"plugins": ["com.chimera.bonylo.BoNyloPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/bonylo.jar",
-			"hash": "4643b4b6a5ff7265b9268229505afa69e8d3c8332e2bff873307d399b59f8256",
+			"hash": "be4e870c7307b290197a9ed0dd12a9bf6935f0b0b0d932c90d7801d01c42c400",
 			"description": "Nylo ticks good."
 		},
 		{
@@ -29,7 +29,7 @@
 			"plugins": ["com.chimera.cerberushelper.CerberusPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/cerberushelper.jar",
-			"hash": "23787b5e3223f52790769ffda3f6800946f29aa922bb8737822bc252a1a04c08",
+			"hash": "b855ab89ffca256a834ec5d079906be5b1f7908586036bcee576f762699aa2a6",
 			"description": "A helper plugin for the Cerberus boss."
 		},
 		{
@@ -37,7 +37,7 @@
 			"plugins": ["com.chimera.chimeraexternalmanager.ChimeraExternalManager"],
 			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/chimeraexternalmanager.jar",
-			"hash": "45c3b53a748135fd444ab6082faf9452d887171c0fac4f0f9de74e70efee1107",
+			"hash": "5db93fb67d9e6d3aca7be5ae009fe3b76bf3b1fb8d105285d9af6a72c6384270",
 			"description": "Loads plugins from repos"
 		},
 		{
@@ -45,7 +45,7 @@
 			"plugins": ["com.chimera.decorhighlight.DecorHighlightPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/decorhighlight.jar",
-			"hash": "4bf222e42c8b6850a0e7c525bf306ab7a5d1177d00756b92c7ca4ee0411c6f0e",
+			"hash": "c3c90f9ecd659e2022ae0d69183604e13611eab2eaeb846a8cb8937fac435e3d",
 			"description": "Highlights a custom list of graphic objects and ground decorations."
 		},
 		{
@@ -53,7 +53,7 @@
 			"plugins": ["com.chimera.developertools.ToolsPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/developertools.jar",
-			"hash": "d9ca11bece29e809d5b44ae6cd82a98cefd55ae7afebb26a8084569f14d66dc8",
+			"hash": "82e3de3d5cce6ca890499c59994308c0a7d22e2130952c68ff6c5fc03ab9feb9",
 			"description": "Additional developer tools for plugin development."
 		},
 		{
@@ -61,7 +61,7 @@
 			"plugins": ["com.chimera.dt2.Dt2Plugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/dt2.jar",
-			"hash": "b5d5372c752cd635823f9c57e14c511d5e635c4ace1ad649d93482458d9c7f02",
+			"hash": "da8602da7f541953a06a44816323338af620f6d9efab8858765938c56ccc7296",
 			"description": "Plugin for DT2 bosses."
 		},
 		{
@@ -69,7 +69,7 @@
 			"plugins": ["com.chimera.fightcave.FightCavePlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/fightcave.jar",
-			"hash": "4e6cfad28cedb1b0c1679e8fc0dd5734d6a7de5830a99b7abdb52eb996beaa1f",
+			"hash": "fdfe77f248c08218ee599fdfdbea65e4818703c408890f16376bed597316c646",
 			"description": "Plugin for those who cannot do Jad."
 		},
 		{
@@ -77,7 +77,7 @@
 			"plugins": ["com.chimera.godwarsticktimers.GodWarsTickTimersPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/gwdticktimers.jar",
-			"hash": "be61b24907f1b6e199a86c732f9a98acc56b21a672b1add893a39a07a6188d1b",
+			"hash": "87cc3c97c9cc2ebfd37ed13a7744918eca85dd574cb931a9c3849dc3c91aba63",
 			"description": "Overlay plugin for the GWD bosses."
 		},
 		{
@@ -85,7 +85,7 @@
 			"plugins": ["com.chimera.hallowedhelper.HallowedHelperPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/hallowedhelper.jar",
-			"hash": "d9bc16851fffb9ceebe6b3cdebee4310fa44f334090d55f9b72a3727cbb49b6d",
+			"hash": "ec89ddcde4189dc1e44f21090bac80dc060b77b3056c1b44d69964e62138ec07",
 			"description": "Hallowed Sepulchre helper with tons of overlays"
 		},
 		{
@@ -93,7 +93,7 @@
 			"plugins": ["com.chimera.spoonjadhelper.SpoonJadHelperPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/jadhelper.jar",
-			"hash": "56ee46c01c0b5959f1b94346e14f84a51e74ffe0fffe21701195a7ce7dc6a4eb",
+			"hash": "639f1c544d08fcc1f8d0850ecd6a9a7ed7f363c7438ed2ad7a00276fd289e7dc",
 			"description": "Plugin for those who cannot do Jad."
 		},
 		{
@@ -101,7 +101,7 @@
 			"plugins": ["com.chimera.orbpulse.OrbPulsePlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/orbpulse.jar",
-			"hash": "9cb489655312345c87128927d2dc4af7fdd6a249f50fe9e7d6927687bf44c28b",
+			"hash": "c7d6c207483e93afd14df5d1f7e07bada04516362fb738dd672c2a78053a93a9",
 			"description": "Makes the Health and/or Spec orbs pulse."
 		},
 		{
@@ -109,7 +109,7 @@
 			"plugins": ["com.chimera.outgoingchatfilter.OutgoingChatFilterPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/outgoingchatfilter.jar",
-			"hash": "018aef5260779153f377d772d678e29ba4d5414ef67afcec6a0c427303c46d70",
+			"hash": "2e1821e745677d3f50de64611ea013cce8c1de72f12da1aa4ffc1f0aa835b242",
 			"description": "Stops you from saying naughty words."
 		},
 		{
@@ -117,7 +117,7 @@
 			"plugins": ["com.chimera.panelhider.PanelHiderPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/panelhider.jar",
-			"hash": "4443c10aa193ff779f4f13b0ba45d24e54f7b4b60e5f0b3ee036d643ba5ad4e5",
+			"hash": "a263bd702f29b8440af2ed28c8be21999a9a300c3a1c4dca75662c53f6b4a815",
 			"description": "Hides panels via tooltip text"
 		},
 		{
@@ -125,7 +125,7 @@
 			"plugins": ["com.chimera.pvpplayerindicators.PvPPlayerIndicatorsPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/pvpplayerindicators.jar",
-			"hash": "cef7ec4a22c305664e75b4a1cfbfb3be875a1cd4314d615aa91b6b4076bc2672",
+			"hash": "24ee45427cc477359c2dbc518e2a751846262b338184acbbe9b0c6f9daf84152",
 			"description": "Additional player indicators features for PvP"
 		},
 		{
@@ -133,7 +133,7 @@
 			"plugins": ["com.chimera.smithing.SmithingPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/smithing.jar",
-			"hash": "1a263ea340edba16a3b0948986c9a59495a6f39a469a13d2beb88a458472a631",
+			"hash": "13c56b54ac5a3483c96c37372ae544be30ff501673b2ef7863e8cb1630240ba7",
 			"description": "Easy mode smithing."
 		},
 		{
@@ -141,7 +141,7 @@
 			"plugins": ["com.chimera.socket.SocketPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/socket.jar",
-			"hash": "bb07f9cf340b5d457cb016c074c1a190fb20eba8bd1e8606540b8b10933a101f",
+			"hash": "d4802cf814d057d8a82563b72c527982f48c5fc85854aa0ed79b121127a098fa",
 			"description": "Allows communication between other players for sotetseg maze, special attacks, and more."
 		},
 		{
@@ -149,7 +149,7 @@
 			"plugins": ["com.chimera.socketba.SocketBAPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/socketba.jar",
-			"hash": "630632293930f6af802f7b6af210eda256a01f119dbbd093289acfe0393fe90a",
+			"hash": "19316969778d89f9014623be901e0cd21eab00c23413dc725be062480610e9d6",
 			"description": "Sends role information to other players at Barbarian Assault."
 		},
 		{
@@ -157,7 +157,7 @@
 			"plugins": ["com.chimera.socketbosstimer.SocketBossTimersPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/socketbosstimer.jar",
-			"hash": "e344cb0fa793e8596015530dc8e63deea9de917d8c1f7549711ae8ab492f219a",
+			"hash": "bd28f3ab4f208ba74aa7e1c48024162604556df7c1db6fcd23551927c7fff17c",
 			"description": "Uses Socket to track boss respawn timers in multiple worlds"
 		},
 		{
@@ -165,7 +165,7 @@
 			"plugins": ["com.chimera.socketchat.sChatPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/socketchat.jar",
-			"hash": "cb19caa0c32c644d39fde9fbf2bd018afa2aa860166035aa295d3c3df7fe1b58",
+			"hash": "088c23c7074ea511df146c7cb2d38568465802b8acf06d23c73f660fe9126134",
 			"description": "Allows communication between other players."
 		},
 		{
@@ -173,7 +173,7 @@
 			"plugins": ["com.chimera.socketdks.DKSPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/socketdks.jar",
-			"hash": "7fbfbdee54d6e1590f0ac51127d0a96006b38da76777ddad6e376e027f2128fd",
+			"hash": "00053f5b3e1912dbfac9e27addd0f1911c9e1e0bc7df43d4977fb72832e54b4b",
 			"description": "Sends information across Socket at Dagannoth Kings."
 		},
 		{
@@ -181,7 +181,7 @@
 			"plugins": ["com.chimera.socketDPS.SocketDpsCounterPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/socketDPS.jar",
-			"hash": "02388c46d9ab4b256edf99e1ede691a2c0f3448afebe586039aa91ba8af9273c",
+			"hash": "e7ee13321b44d912e0635c262e77af8c00dfaf41540f70f93ceb71b11d3105ab",
 			"description": "Tracks damage of every player in Socket"
 		},
 		{
@@ -189,7 +189,7 @@
 			"plugins": ["com.chimera.sockethealing.SocketHealingPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/sockethealing.jar",
-			"hash": "96c3c20c81c9c6841753cf61838b8c8633c28513e8dbaafb9a08aef27facc5c7",
+			"hash": "bfdf80c6505e7c2d09717f55fc46b384c46984b901f2dd6b604fe43d00be3f0c",
 			"description": "Tracks Hitpoints of every player in Socket"
 		},
 		{
@@ -197,7 +197,7 @@
 			"plugins": ["com.chimera.socketkph.KillSpeedPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/socketkph.jar",
-			"hash": "4d5e5bdb93a46e25d5ab0c07a5de2b06be069925a6829a070806c702cc0b4e83",
+			"hash": "9df037eaa41aa322c732d2d2ca888d2582ff64cd1463453e6b1ba11becd719fd",
 			"description": "Tracks kills per hour (KPH) using socket."
 		},
 		{
@@ -205,7 +205,7 @@
 			"plugins": ["com.chimera.socketplayerstatus.PlayerStatusPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/socketplayerstatus.jar",
-			"hash": "087f2e619d688b2d5767aeff726976f65e8007cab4643585a9760e0d5b07ddcc",
+			"hash": "69e7c7939b8bed8cbe0aa7e2cc51feb209760b7a33c8b238b9bc2d2e50ff3d18",
 			"description": "Sends information about each player across Socket."
 		},
 		{
@@ -213,7 +213,7 @@
 			"plugins": ["com.chimera.socketplayerstatusextended.PlayerStatusExtendedPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/socketplayerstatusextended.jar",
-			"hash": "1a37edbafd7e10f39e3be3b40c621fac49a755540d9844732e53a6953c173cfb",
+			"hash": "f7b473c6d41e9077722e95d0c615bf00aa827812c09a865eba61b9c57a39d097",
 			"description": "Sends rat information about each player across Socket."
 		},
 		{
@@ -221,7 +221,7 @@
 			"plugins": ["com.chimera.socketsotetseg.SotetsegPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/socketsotetseg.jar",
-			"hash": "067d86aa462b64bca5add0ef0e00aa31af3cc10dab0d4f7728ee2899c09fa92c",
+			"hash": "a69fbfb5afaa2ffae45a58ec7ff40d0a5488570bf704273319c54f90b846d58e",
 			"description": "Sotetseg Maze and other stuff."
 		},
 		{
@@ -229,23 +229,23 @@
 			"plugins": ["com.chimera.socketworldhopperplus.SocketWorldHopperPlusPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/socketworldhopperplus.jar",
-			"hash": "b9279f2ebb28d8645350e593043b73b4da6bf75766da2b9affe395e2b29269b1",
+			"hash": "e4686c4d66d5bcc9038fc1e9900f5efc5699edd196328bf9fa6f22fea93398dd",
 			"description": "World Hopper with Socket functionality."
 		},
 		{
 			"name": "specbar.jar",
 			"plugins": ["com.chimera.specbar.SpecBarPlugin"],
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/specbar.jar",
-			"hash": "ac270cfe75f94637301a492b0a39f7cc04bdc5d4f2c565029cc617090a2f9838",
+			"hash": "3c47d35b2d5626a43d287513b106338d2d39c406a1914283733480353ae0b287",
 			"description": "Adds a spec bar to every weapon."
 		},
 		{
 			"name": "specorb.jar",
 			"plugins": ["com.chimera.specorb.SpecOrbPlugin"],
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/specorb.jar",
-			"hash": "11376c4e791c089e27f90444cee239b24e6614d59956f3f1e8a46312bba7ac64",
+			"hash": "e058412d3a717b897c676c8d4e04df02126e1e2ccb402f85c054563037321d18",
 			"description": "Allows you to 1 tick the spec orb."
 		},
 		{
@@ -253,15 +253,15 @@
 			"plugins": ["com.chimera.spooncox.SpoonCoxPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spooncox.jar",
-			"hash": "749f6909286df59b0f3cfbd734d2f94fe0614e025606cd5801f8fbdaca4f29db",
+			"hash": "4cfef8cbc56844acd6f15db7002b0e96e6b39302b61d1b37f791f50c7907fd86",
 			"description": "Additional stuff for CoX."
 		},
 		{
 			"name": "spoonezswaps.jar",
 			"plugins": ["com.chimera.spoonezswaps.SpoonEzSwapsPlugin"],
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoonezswaps.jar",
-			"hash": "8ec0f3cb5452deb4bc5c97724acef41f6cca571d518ead06e6b6fb9e8288d19c",
+			"hash": "a08a60b71ee3f51c73a72bdf4f2e4b00bfaae95a936b4837e3091f1b6f87e3fa",
 			"description": "All in 1 swaps plugin."
 		},
 		{
@@ -269,7 +269,7 @@
 			"plugins": ["com.chimera.spoongauntlet.SpoonGauntletPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoongauntlet.jar",
-			"hash": "83ca5d51bd8b911b594b6b34c4aeb3e17d298516b83caacd1ccc6433e853c295",
+			"hash": "bd7c637c4b38efe480ac4844e64ae47cfd2eef025d2a43f76b8eef085f1a9df9",
 			"description": "Best Gauntlet plugin."
 		},
 		{
@@ -277,7 +277,7 @@
 			"plugins": ["com.chimera.spoonnex.SpoonNexPlugin"],
 			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoonnex.jar",
-			"hash": "d592ef221e7cc39f2d8ccb244c8009605d8cf445e815c5dfb287b825ca063864",
+			"hash": "4ee9f0fd43e5aee026bfcd34296445197948f08168dc8d8a74e0f1014a76d677",
 			"description": "Best Nex plugin."
 		},
 		{
@@ -285,7 +285,7 @@
 			"plugins": ["com.chimera.spoonnightmare.SpoonNightmarePlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoonnightmare.jar",
-			"hash": "f68b2254f04e55713d7dff8500661199f688a56c87a4e2dbdd8e589362bd16b2",
+			"hash": "67dd13c386214f404d9e93343a42d4619528e289e11405990b5423dc1259faf2",
 			"description": "Best Nightmare plugin ever."
 		},
 		{
@@ -293,15 +293,15 @@
 			"plugins": ["com.chimera.spoonobjecthider.SpoonObjectHiderPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoonobjecthider.jar",
-			"hash": "69997dbaf531ac6df829025a2419f6b964a704cf64db9eb40f8d21d0f0951564",
+			"hash": "7737af53ccdf7e9d71f8ab61fe73c0589840e68b8141b31a311b8998bd483c40",
 			"description": "Hides game objects, ground objects, and presets."
 		},
 		{
 			"name": "spoontob.jar",
 			"plugins": ["com.chimera.spoontob.SpoonTobPlugin"],
-			"version": "1.0.3",
+			"version": "1.0.4",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoontob.jar",
-			"hash": "759e2606f3dd0684db27a77352e6442f13f7c296d4b74083846a43b35b5485ea",
+			"hash": "2daf1cab8d410f4a080e5b1688c068a6e95f3bd0a2cfa56431f335cffdbf3ba0",
 			"description": "Best ToB plugin ever."
 		},
 		{
@@ -309,7 +309,7 @@
 			"plugins": ["com.chimera.spoontobstats.SpoonTobStatsPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoontobstats.jar",
-			"hash": "8c2a91f7d9848feab4a71c8136e87c25a0e5fa3e223316953dd6cc474cf6ded8",
+			"hash": "28e94fb99de5e7065c611b3df87191d3a4d2619ef0cee4ee38d317c4e576ece9",
 			"description": "Best ToB time plugin ever."
 		},
 		{
@@ -317,7 +317,7 @@
 			"plugins": ["com.chimera.streamerswitch.StreamerSwitchPlugin"],
 			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/streamerswitch.jar",
-			"hash": "788d9df3afdf25745ae3297058f9fe9e31a29f5d06f84c52f9c9bac25de582c2",
+			"hash": "873d73d77ccf4bf459caf48531136caecbb481dd7f7dc760dc79d1ceb71be1e7",
 			"description": "Disables all external plugins and hides manager."
 		},
 		{
@@ -325,7 +325,7 @@
 			"plugins": ["com.chimera.zulrah.ZulrahPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/zulrah.jar",
-			"hash": "db7bf69b216ff2c98a80a7b4527a016d1771ebc9dfee697db998a3827b4214d5",
+			"hash": "f8ee27abc9a050a0ff9d8d589a92b68b4a9f3ff4ec7a74b7372deda50a4a7cfc",
 			"description": "An overlay for the Zulrah fight."
 		}
 	]
