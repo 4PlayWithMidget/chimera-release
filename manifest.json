@@ -321,6 +321,14 @@
 			"description": "Disables all external plugins and hides manager."
 		},
 		{
+			"name": "toaplus.jar",
+			"plugins": ["com.chimera.toaplus.ToaPlusPlugin"],
+			"version": "1.0.0",
+			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/toaplus.jar",
+			"hash": "f420df06c6b536ac5ab7bef6c3d77a27cf23429d11792189a68416091e88af7a",
+			"description": "ToA stuff and such"
+		},
+		{
 			"name": "zulrah.jar",
 			"plugins": ["com.chimera.zulrah.ZulrahPlugin"],
 			"version": "1.0.1",
