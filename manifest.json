@@ -323,10 +323,10 @@
 		{
 			"name": "toaplus.jar",
 			"plugins": ["com.chimera.toaplus.ToaPlusPlugin"],
-			"version": "1.0.0",
+			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/toaplus.jar",
-			"hash": "f420df06c6b536ac5ab7bef6c3d77a27cf23429d11792189a68416091e88af7a",
-			"description": "ToA stuff and such"
+			"hash": "91197bc1dcb8988fac611a287958a5a32c28766435dbf8539c6185d5fcb526aa",
+			"description": "ToA stuff and such and things and the works and the likes"
 		},
 		{
 			"name": "zulrah.jar",
