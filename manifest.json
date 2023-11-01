@@ -25,6 +25,14 @@
 			"description": "Nylo ticks good."
 		},
 		{
+			"name": "boosts2.jar",
+			"plugins": ["com.chimera.boosts2.Boosts2Plugin"],
+			"version": "1.0.0",
+			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/boosts2.jar",
+			"hash": "42c5db88d6982eeb0ef23c7a40f9cf9912e5395d15b82805af9c29126d395bc7",
+			"description": "This is just Boosts Information with custom postive/negative colors"
+		},
+		{
 			"name": "cerberushelper.jar",
 			"plugins": ["com.chimera.cerberushelper.CerberusPlugin"],
 			"version": "1.0.1",
