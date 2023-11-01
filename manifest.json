@@ -3,9 +3,9 @@
 		{
 			"name": "alchemicalhydra.jar",
 			"plugins": ["com.chimera.alchemicalhydra.HydraPlugin"],
-			"version": "1.0.3",
+			"version": "1.0.4",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/alchemicalhydra.jar",
-			"hash": "981190265e05d840d8edda5166e7429a875c574ed11a1b79cb3b5c809749ebf4",
+			"hash": "8925a11d68bacef08beeb81d83ed5b9e28225c2c7f9b8929fcd7bbb23137f55f",
 			"description": "An overlay plugin for the Alchemical Hydra boss."
 		},
 		{
