@@ -307,17 +307,17 @@
 		{
 			"name": "spoontob.jar",
 			"plugins": ["com.chimera.spoontob.SpoonTobPlugin"],
-			"version": "1.0.4",
+			"version": "1.0.5",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoontob.jar",
-			"hash": "2daf1cab8d410f4a080e5b1688c068a6e95f3bd0a2cfa56431f335cffdbf3ba0",
+			"hash": "d2e2e0d3c8c96282c1e280a45c8798c54089c7fd5cda17576232601fbac790e1",
 			"description": "Best ToB plugin ever."
 		},
 		{
 			"name": "spoontobstats.jar",
 			"plugins": ["com.chimera.spoontobstats.SpoonTobStatsPlugin"],
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoontobstats.jar",
-			"hash": "28e94fb99de5e7065c611b3df87191d3a4d2619ef0cee4ee38d317c4e576ece9",
+			"hash": "35c47ed2bd468c05a249d932d2d99d77475a509ceaf335415e71a1104fba4fd7",
 			"description": "Best ToB time plugin ever."
 		},
 		{
