@@ -299,9 +299,9 @@
 		{
 			"name": "spoonobjecthider.jar",
 			"plugins": ["com.chimera.spoonobjecthider.SpoonObjectHiderPlugin"],
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoonobjecthider.jar",
-			"hash": "7737af53ccdf7e9d71f8ab61fe73c0589840e68b8141b31a311b8998bd483c40",
+			"hash": "ba83a6e92ccdf7cbc63528ae6a497dbca0fc2f56174f84f462c5fb547d79a1c0",
 			"description": "Hides game objects, ground objects, and presets."
 		},
 		{
@@ -315,9 +315,9 @@
 		{
 			"name": "spoontobstats.jar",
 			"plugins": ["com.chimera.spoontobstats.SpoonTobStatsPlugin"],
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoontobstats.jar",
-			"hash": "35c47ed2bd468c05a249d932d2d99d77475a509ceaf335415e71a1104fba4fd7",
+			"hash": "6c467d89265aa4280fc248a079b5073616ed2d0a06b1fbfcc89583699cb0d248",
 			"description": "Best ToB time plugin ever."
 		},
 		{
