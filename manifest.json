@@ -283,9 +283,9 @@
 		{
 			"name": "spoongauntlet.jar",
 			"plugins": ["com.chimera.spoongauntlet.SpoonGauntletPlugin"],
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoongauntlet.jar",
-			"hash": "bd7c637c4b38efe480ac4844e64ae47cfd2eef025d2a43f76b8eef085f1a9df9",
+			"hash": "f434f9d68511f493b9fce20d4c0ee834ae51b2dca816cc04afadbfe208119ce1",
 			"description": "Best Gauntlet plugin."
 		},
 		{
