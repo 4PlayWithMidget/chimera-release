@@ -81,6 +81,14 @@
 			"description": "Plugin for those who cannot do Jad."
 		},
 		{
+			"name": "guardians.jar",
+			"plugins": ["com.chimera.guardians.GGPlugin"],
+			"version": "1.0.0",
+			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/guardians.jar",
+			"hash": "c61555435eb02aafa86964514afc38ea0919a404072d3debe649f72b74e704da",
+			"description": "Additional stuff Grotesque Guardians"
+		},
+		{
 			"name": "gwdticktimers.jar",
 			"plugins": ["com.chimera.godwarsticktimers.GodWarsTickTimersPlugin"],
 			"version": "1.0.1",
@@ -259,9 +267,9 @@
 		{
 			"name": "spooncox.jar",
 			"plugins": ["com.chimera.spooncox.SpoonCoxPlugin"],
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spooncox.jar",
-			"hash": "4cfef8cbc56844acd6f15db7002b0e96e6b39302b61d1b37f791f50c7907fd86",
+			"hash": "fc6084adb8825975d6fda8a8b1314b304dcd1aac2782792031eb6ec1d8710246",
 			"description": "Additional stuff for CoX."
 		},
 		{
