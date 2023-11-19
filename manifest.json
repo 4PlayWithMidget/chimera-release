@@ -251,33 +251,33 @@
 		{
 			"name": "specbar.jar",
 			"plugins": ["com.chimera.specbar.SpecBarPlugin"],
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/specbar.jar",
-			"hash": "3c47d35b2d5626a43d287513b106338d2d39c406a1914283733480353ae0b287",
+			"hash": "1213cc3a6fcf4757d06dddfb16551df19f5ca1c461633d3a2ec5629a0b518c65",
 			"description": "Adds a spec bar to every weapon."
 		},
 		{
 			"name": "specorb.jar",
 			"plugins": ["com.chimera.specorb.SpecOrbPlugin"],
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/specorb.jar",
-			"hash": "e058412d3a717b897c676c8d4e04df02126e1e2ccb402f85c054563037321d18",
+			"hash": "0333f2bfb5b333b9fd13a821d541e8c709eb0ce26655029233a7191e0a494a08",
 			"description": "Allows you to 1 tick the spec orb."
 		},
 		{
 			"name": "spooncox.jar",
 			"plugins": ["com.chimera.spooncox.SpoonCoxPlugin"],
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spooncox.jar",
-			"hash": "fc6084adb8825975d6fda8a8b1314b304dcd1aac2782792031eb6ec1d8710246",
+			"hash": "c6ad98210f7ecae2846cd46d52ae94f6166df641192d3b197311b71f55a2e9dd",
 			"description": "Additional stuff for CoX."
 		},
 		{
 			"name": "spoonezswaps.jar",
 			"plugins": ["com.chimera.spoonezswaps.SpoonEzSwapsPlugin"],
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoonezswaps.jar",
-			"hash": "a08a60b71ee3f51c73a72bdf4f2e4b00bfaae95a936b4837e3091f1b6f87e3fa",
+			"hash": "6532eb2dcd2d704b674fce17b8ef1a7b7772936d8507aa12cc8a4799eb96e66c",
 			"description": "All in 1 swaps plugin."
 		},
 		{
@@ -315,9 +315,9 @@
 		{
 			"name": "spoontob.jar",
 			"plugins": ["com.chimera.spoontob.SpoonTobPlugin"],
-			"version": "1.0.5",
+			"version": "1.0.6",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoontob.jar",
-			"hash": "d2e2e0d3c8c96282c1e280a45c8798c54089c7fd5cda17576232601fbac790e1",
+			"hash": "3f6a0b4402a6e29fd78e3d38e05a359fa9f0c1d673044fd82d84fdc164fc9b44",
 			"description": "Best ToB plugin ever."
 		},
 		{
