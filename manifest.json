@@ -339,9 +339,9 @@
 		{
 			"name": "toaplus.jar",
 			"plugins": ["com.chimera.toaplus.ToaPlusPlugin"],
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/toaplus.jar",
-			"hash": "50d22c01ea818fcbc34c1645b03a2ffdae68f62869dfb7887bb637d4828ad9da",
+			"hash": "e39fd1b34396f4edcb9c316b1494a5e13739f79076dd5242b0d8e98c188d4eb8",
 			"description": "ToA stuff and such and things and the works and the likes"
 		},
 		{
