@@ -3,9 +3,9 @@
 		{
 			"name": "alchemicalhydra.jar",
 			"plugins": ["com.chimera.alchemicalhydra.HydraPlugin"],
-			"version": "1.0.4",
+			"version": "1.0.5",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/alchemicalhydra.jar",
-			"hash": "8925a11d68bacef08beeb81d83ed5b9e28225c2c7f9b8929fcd7bbb23137f55f",
+			"hash": "ee4fd0f30234e79f139b1a7e28ceeb162d194b834bd69c00973f6bd1fa36c808",
 			"description": "An overlay plugin for the Alchemical Hydra boss."
 		},
 		{
@@ -43,9 +43,9 @@
 		{
 			"name": "chimeraexternalmanager.jar",
 			"plugins": ["com.chimera.chimeraexternalmanager.ChimeraExternalManager"],
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/chimeraexternalmanager.jar",
-			"hash": "5db93fb67d9e6d3aca7be5ae009fe3b76bf3b1fb8d105285d9af6a72c6384270",
+			"hash": "fea6268f3695f3d83ef61456ef8990f81a1142d4736529c0d7729df40d8f42aa",
 			"description": "Loads plugins from repos"
 		},
 		{
@@ -55,6 +55,14 @@
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/decorhighlight.jar",
 			"hash": "c3c90f9ecd659e2022ae0d69183604e13611eab2eaeb846a8cb8937fac435e3d",
 			"description": "Highlights a custom list of graphic objects and ground decorations."
+		},
+		{
+			"name": "demonicgorilla.jar",
+			"plugins": ["com.chimera.demonicgorilla.DemonicGorillaPlugin"],
+			"version": "1.0.0",
+			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/demonicgorilla.jar",
+			"hash": "801a413df2a496bd1264b704416b2ae3bd920c69554cd8f69835eff851076652",
+			"description": "Shows the next attack for Demonic Gorillas"
 		},
 		{
 			"name": "developertools.jar",
@@ -67,9 +75,9 @@
 		{
 			"name": "dt2.jar",
 			"plugins": ["com.chimera.dt2.Dt2Plugin"],
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/dt2.jar",
-			"hash": "da8602da7f541953a06a44816323338af620f6d9efab8858765938c56ccc7296",
+			"hash": "90ead63b30867384cd69749b0e3a36823300b59f3309b6dba27252d6c378e2ba",
 			"description": "Plugin for DT2 bosses."
 		},
 		{
@@ -91,9 +99,9 @@
 		{
 			"name": "gwdticktimers.jar",
 			"plugins": ["com.chimera.godwarsticktimers.GodWarsTickTimersPlugin"],
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/gwdticktimers.jar",
-			"hash": "87cc3c97c9cc2ebfd37ed13a7744918eca85dd574cb931a9c3849dc3c91aba63",
+			"hash": "2ed0e0b432c26892cdf7402641d75d866fcadcdeb4011e5985fe296d87b0b0ac",
 			"description": "Overlay plugin for the GWD bosses."
 		},
 		{
@@ -107,9 +115,9 @@
 		{
 			"name": "jadhelper.jar",
 			"plugins": ["com.chimera.spoonjadhelper.SpoonJadHelperPlugin"],
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/jadhelper.jar",
-			"hash": "639f1c544d08fcc1f8d0850ecd6a9a7ed7f363c7438ed2ad7a00276fd289e7dc",
+			"hash": "dd1189642e0afdcf1fa5c0bcf8db2d24ea1bb580f0f8b54a1f48e6eccf1450d2",
 			"description": "Plugin for those who cannot do Jad."
 		},
 		{
@@ -267,9 +275,9 @@
 		{
 			"name": "spooncox.jar",
 			"plugins": ["com.chimera.spooncox.SpoonCoxPlugin"],
-			"version": "1.0.3",
+			"version": "1.0.4",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spooncox.jar",
-			"hash": "c6ad98210f7ecae2846cd46d52ae94f6166df641192d3b197311b71f55a2e9dd",
+			"hash": "fb86a7960ede448e3c1bc9a3360cb5769606a50fc89a8bd517929618be09e292",
 			"description": "Additional stuff for CoX."
 		},
 		{
@@ -299,9 +307,9 @@
 		{
 			"name": "spoonnightmare.jar",
 			"plugins": ["com.chimera.spoonnightmare.SpoonNightmarePlugin"],
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoonnightmare.jar",
-			"hash": "67dd13c386214f404d9e93343a42d4619528e289e11405990b5423dc1259faf2",
+			"hash": "a572f094ab19c7f4226f2ea9456afdf5c868299a32ff00386a30625b56dfb47f",
 			"description": "Best Nightmare plugin ever."
 		},
 		{
@@ -339,9 +347,9 @@
 		{
 			"name": "toaplus.jar",
 			"plugins": ["com.chimera.toaplus.ToaPlusPlugin"],
-			"version": "1.0.3",
+			"version": "1.0.4",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/toaplus.jar",
-			"hash": "e39fd1b34396f4edcb9c316b1494a5e13739f79076dd5242b0d8e98c188d4eb8",
+			"hash": "05e7c0dc7f7374d10db89881a113634f728a0ba152cd7ebeec1faaff0566eca4",
 			"description": "ToA stuff and such and things and the works and the likes"
 		},
 		{
