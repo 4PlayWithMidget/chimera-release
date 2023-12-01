@@ -43,9 +43,9 @@
 		{
 			"name": "chimeraexternalmanager.jar",
 			"plugins": ["com.chimera.chimeraexternalmanager.ChimeraExternalManager"],
-			"version": "1.0.3",
+			"version": "1.0.4",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/chimeraexternalmanager.jar",
-			"hash": "fea6268f3695f3d83ef61456ef8990f81a1142d4736529c0d7729df40d8f42aa",
+			"hash": "627d849cad340fdaf056a34e15202968389cb97de2bbad6032d2ac2cf2ef6edc",
 			"description": "Loads plugins from repos"
 		},
 		{
@@ -291,9 +291,9 @@
 		{
 			"name": "spoongauntlet.jar",
 			"plugins": ["com.chimera.spoongauntlet.SpoonGauntletPlugin"],
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoongauntlet.jar",
-			"hash": "f434f9d68511f493b9fce20d4c0ee834ae51b2dca816cc04afadbfe208119ce1",
+			"hash": "de0db543f400959873c62f84629d7b032c3116a1568a8ab29fcc74fc3afde58b",
 			"description": "Best Gauntlet plugin."
 		},
 		{
