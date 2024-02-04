@@ -45,7 +45,7 @@
 			"plugins": ["com.chimera.chimeraexternalmanager.ChimeraExternalManager"],
 			"version": "1.0.4",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/chimeraexternalmanager.jar",
-			"hash": "627d849cad340fdaf056a34e15202968389cb97de2bbad6032d2ac2cf2ef6edc",
+			"hash": "061bb09ddd24f5201efff81a26c429d152490088539559c56402e2249af7ba9b",
 			"description": "Loads plugins from repos"
 		},
 		{
@@ -67,9 +67,9 @@
 		{
 			"name": "developertools.jar",
 			"plugins": ["com.chimera.developertools.ToolsPlugin"],
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/developertools.jar",
-			"hash": "82e3de3d5cce6ca890499c59994308c0a7d22e2130952c68ff6c5fc03ab9feb9",
+			"hash": "ce558a2d65921e791df6e4258f6d484cb0111f96a65a089814cb0ff403c723c4",
 			"description": "Additional developer tools for plugin development."
 		},
 		{

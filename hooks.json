@@ -23,7 +23,7 @@
       "n": "setSelectedSpellWidget",
       "c": "ln",
       "p": "pa",
-      "m": 991143903
+      "m": -991143903
     },
     {
       "n": "setSelectedSpellChildIndex",
@@ -106,14 +106,15 @@
     {
       "n": "isMoving",
       "c": "df",
-      "p": "cx",
+      "p": "du",
       "m": 6573123
     },
     {
       "n": "getActorAnimationId",
       "c": "df",
-      "p": "cw",
+      "p": "cx",
       "m": -70627403
     }
   ]
 }
+
