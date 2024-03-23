@@ -49,6 +49,14 @@
 			"description": "Loads plugins from repos"
 		},
 		{
+			"name": "colosseumplus.jar",
+			"plugins": ["com.chimera.colosseumplus.ColosseumPlusPlugin"],
+			"version": "1.0.0",
+			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/colosseumplus.jar",
+			"hash": "947cc9142b33776c77042fb4109b0f093cd123f47100e222870c1ff92eeb4994",
+			"description": "Varlamore Colosseum plugin."
+		},
+		{
 			"name": "decorhighlight.jar",
 			"plugins": ["com.chimera.decorhighlight.DecorHighlightPlugin"],
 			"version": "1.0.1",
