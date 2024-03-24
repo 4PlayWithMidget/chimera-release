@@ -53,8 +53,8 @@
 			"plugins": ["com.chimera.colosseumplus.ColosseumPlusPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/colosseumplus.jar",
-			"hash": "008b184ab8bbdf87fef8e8e0cc83ae3a3e130a01516452c8f73f196f1a962150",
-			"description": "Varlamore Colosseum plugin."
+			"hash": "55cfcd3949effe83f470a7a5b1ce6bfc8cb12b512a67f10b5e736ffa24aa9b9b",
+			"description": "Fortis Colosseum plugin."
 		},
 		{
 			"name": "decorhighlight.jar",
