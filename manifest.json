@@ -83,9 +83,9 @@
 		{
 			"name": "dt2.jar",
 			"plugins": ["com.chimera.dt2.Dt2Plugin"],
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/dt2.jar",
-			"hash": "90ead63b30867384cd69749b0e3a36823300b59f3309b6dba27252d6c378e2ba",
+			"hash": "998b1916b2dd9b1571653ad7f982ac9c97c0c6fc42513b6f421d4d325c558de5",
 			"description": "Plugin for DT2 bosses."
 		},
 		{
