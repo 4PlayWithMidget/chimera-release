@@ -43,17 +43,17 @@
 		{
 			"name": "chimeraexternalmanager.jar",
 			"plugins": ["com.chimera.chimeraexternalmanager.ChimeraExternalManager"],
-			"version": "1.0.4",
+			"version": "1.0.5",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/chimeraexternalmanager.jar",
-			"hash": "6c25b16c2d977c7ea1c44c1c8c20890533772f99ea54cccef37540543e00f99b",
+			"hash": "30ba18f15013efb266f856861f6ada297e56d85eb781e0e88f00adada6b580eb",
 			"description": "Loads plugins from repos"
 		},
 		{
 			"name": "colosseumplus.jar",
 			"plugins": ["com.chimera.colosseumplus.ColosseumPlusPlugin"],
-			"version": "1.0.5",
+			"version": "1.0.6",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/colosseumplus.jar",
-			"hash": "4b1bb810a920f2cdb294a2f526b505ed803621ea86b5c25bc814facff60a4fd9",
+			"hash": "700199dba0fdbc2e4764f61a1981c406a257de726ab6bddcc2c62d293992dd39",
 			"description": "Fortis Colosseum plugin."
 		},
 		{
@@ -275,9 +275,9 @@
 		{
 			"name": "specbar.jar",
 			"plugins": ["com.chimera.specbar.SpecBarPlugin"],
-			"version": "1.0.3",
+			"version": "1.0.4",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/specbar.jar",
-			"hash": "1213cc3a6fcf4757d06dddfb16551df19f5ca1c461633d3a2ec5629a0b518c65",
+			"hash": "0b24a92014d0f16e34556dc530bf4332300e15bc990a382956303a6f5cfc4b7c",
 			"description": "Adds a spec bar to every weapon."
 		},
 		{
