@@ -51,10 +51,18 @@
 		{
 			"name": "colosseumplus.jar",
 			"plugins": ["com.chimera.colosseumplus.ColosseumPlusPlugin"],
-			"version": "1.0.4",
+			"version": "1.0.5",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/colosseumplus.jar",
-			"hash": "88892120f7059f78734a92379d3018b62c8a22d34d7a28950aaf19b79fb21612",
+			"hash": "4b1bb810a920f2cdb294a2f526b505ed803621ea86b5c25bc814facff60a4fd9",
 			"description": "Fortis Colosseum plugin."
+		},
+		{
+			"name": "cursed.jar",
+			"plugins": ["com.chimera.cursed.CursedPlugin"],
+			"version": "1.0.0",
+			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/cursed.jar",
+			"hash": "426422930b002d94ba45560170c65af5b74ef217ecf2de9a035a89e2c97d64ef",
+			"description": "I don't know why....i don't know how.. it just is"
 		},
 		{
 			"name": "decorhighlight.jar",
