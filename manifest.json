@@ -51,9 +51,9 @@
 		{
 			"name": "colosseumplus.jar",
 			"plugins": ["com.chimera.colosseumplus.ColosseumPlusPlugin"],
-			"version": "1.0.7",
+			"version": "1.0.8",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/colosseumplus.jar",
-			"hash": "a8ad782ca69fbb28ebcf253ad045e065ddbff202697f00c6d7ccd48bd92979b3",
+			"hash": "459d595d45d806f882ef0aac3580ed12a152361e849ad577ef02ed46dc9e9d83",
 			"description": "Fortis Colosseum plugin."
 		},
 		{
