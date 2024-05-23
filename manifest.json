@@ -43,25 +43,25 @@
 		{
 			"name": "chimeraexternalmanager.jar",
 			"plugins": ["com.chimera.chimeraexternalmanager.ChimeraExternalManager"],
-			"version": "1.0.6",
+			"version": "1.0.7",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/chimeraexternalmanager.jar",
-			"hash": "b0370b0cd256aea0689572598c23f2860977d5a3dd4f8217223201b90c190a9b",
+			"hash": "fef7eace43f991f75e874a36994f92a36bbbdc4302da49b39db31b7141f8b697",
 			"description": "Loads plugins from repos"
 		},
 		{
 			"name": "colosseumplus.jar",
 			"plugins": ["com.chimera.colosseumplus.ColosseumPlusPlugin"],
-			"version": "1.1.0",
+			"version": "1.1.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/colosseumplus.jar",
-			"hash": "f476092931cbfe9a0a66a72ebaf1831683f2d1df2434fbbdaf40cbd3f393e29e",
+			"hash": "695fb6babcd8d671f12267553da4a7bc010d069825b3c2373c8d7358f9c04bd9",
 			"description": "Fortis Colosseum plugin."
 		},
 		{
 			"name": "cursed.jar",
 			"plugins": ["com.chimera.cursed.CursedPlugin"],
-			"version": "1.0.0",
+			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/cursed.jar",
-			"hash": "426422930b002d94ba45560170c65af5b74ef217ecf2de9a035a89e2c97d64ef",
+			"hash": "b96cad61119759fd0309bed0f01e5816d12fb3c42207d7a5cf57757514f0b5ae",
 			"description": "I don't know why....i don't know how.. it just is"
 		},
 		{
@@ -75,9 +75,9 @@
 		{
 			"name": "demonicgorilla.jar",
 			"plugins": ["com.chimera.demonicgorilla.DemonicGorillaPlugin"],
-			"version": "1.0.0",
+			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/demonicgorilla.jar",
-			"hash": "801a413df2a496bd1264b704416b2ae3bd920c69554cd8f69835eff851076652",
+			"hash": "f34ad9d0a83d699acd0db38340654eef590f945ea81200dd93cf002272e02cca",
 			"description": "Shows the next attack for Demonic Gorillas"
 		},
 		{
@@ -347,9 +347,9 @@
 		{
 			"name": "spoontob.jar",
 			"plugins": ["com.chimera.spoontob.SpoonTobPlugin"],
-			"version": "1.0.6",
+			"version": "1.0.7",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoontob.jar",
-			"hash": "3f6a0b4402a6e29fd78e3d38e05a359fa9f0c1d673044fd82d84fdc164fc9b44",
+			"hash": "0b54b216475a7451cdad1d1c084cdbc705492c6c6139f4f1e7baf012b03ce037",
 			"description": "Best ToB plugin ever."
 		},
 		{
