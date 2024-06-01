@@ -43,9 +43,9 @@
 		{
 			"name": "chimeraexternalmanager.jar",
 			"plugins": ["com.chimera.chimeraexternalmanager.ChimeraExternalManager"],
-			"version": "1.0.8",
+			"version": "1.1.0",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/chimeraexternalmanager.jar",
-			"hash": "ec23689dca0aec0538eafd9a755f5804350266c6d68c87cc122d7000b6b95d11",
+			"hash": "e559c5f68a118ae3b5642cf1e866396ef0f8f4de15c6334146953ada1fa67b4b",
 			"description": "Loads plugins from repos"
 		},
 		{
@@ -63,6 +63,14 @@
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/cursed.jar",
 			"hash": "b96cad61119759fd0309bed0f01e5816d12fb3c42207d7a5cf57757514f0b5ae",
 			"description": "I don't know why....i don't know how.. it just is"
+		},
+		{
+			"name": "customgraphics.jar",
+			"plugins": ["com.chimera.customgraphics.CustomGraphicsPlugin"],
+			"version": "1.0.0",
+			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/customgraphics.jar",
+			"hash": "66505416ccfe8c3b5b9c95b4f60769852296fae39254409c767808a2bb88a628",
+			"description": "Adds custom graphics"
 		},
 		{
 			"name": "decorhighlight.jar",
@@ -283,33 +291,33 @@
 		{
 			"name": "specbar.jar",
 			"plugins": ["com.chimera.specbar.SpecBarPlugin"],
-			"version": "1.0.5",
+			"version": "1.0.6",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/specbar.jar",
-			"hash": "41d21cc76acb7bbb9975e83162c456f22f70079a4f681a1affc6c4dce364bd5c",
+			"hash": "8d060da08d77c1dc669ec5c15dcba87fe3fd834ab5549aefd7da27b5cb66b83a",
 			"description": "Adds a spec bar to every weapon."
 		},
 		{
 			"name": "specorb.jar",
 			"plugins": ["com.chimera.specorb.SpecOrbPlugin"],
-			"version": "1.0.4",
+			"version": "1.0.6",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/specorb.jar",
-			"hash": "acae4afce4ebb491a09a5b02107a675d569471f0888796c7096fdef27e512ed1",
+			"hash": "eb9d42887d34529ab10c81bbf4b2d8c3356bebacdb88bd81624023063aef36d8",
 			"description": "Allows you to 1 tick the spec orb."
 		},
 		{
 			"name": "spooncox.jar",
 			"plugins": ["com.chimera.spooncox.SpoonCoxPlugin"],
-			"version": "1.0.5",
+			"version": "1.0.6",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spooncox.jar",
-			"hash": "aacc48a2748145e51b108fa464dca5c9385b45abe2c09200d01cae397e1837d5",
+			"hash": "33218e115199b1f5d062e2d7281edf8dc667051036731999d1d17ba6c2d577f2",
 			"description": "Additional stuff for CoX."
 		},
 		{
 			"name": "spoonezswaps.jar",
 			"plugins": ["com.chimera.spoonezswaps.SpoonEzSwapsPlugin"],
-			"version": "1.0.4",
+			"version": "1.0.5",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoonezswaps.jar",
-			"hash": "03611fd88efe3bdd98c165f4d1859ae3bcaec144e3750651eb93b15614c8a398",
+			"hash": "0ac389f3ffbc069040031aa0629ba4c307a271a71f6c072ec5d70804d7f95d74",
 			"description": "All in 1 swaps plugin."
 		},
 		{
@@ -349,7 +357,7 @@
 			"plugins": ["com.chimera.spoontob.SpoonTobPlugin"],
 			"version": "1.0.8",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoontob.jar",
-			"hash": "f4bf3c7602002237cb2cbbfa6829229b1f8727706dd5f518380e3627ef5e3d0f",
+			"hash": "a941a5ba255f5117dd3c839b1cfbc33ced39689b28adb434753db08961d221fd",
 			"description": "Best ToB plugin ever."
 		},
 		{
