@@ -11,9 +11,9 @@
 		{
 			"name": "aoe.jar",
 			"plugins": ["com.chimera.aoe.ProjectilePlugin"],
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/aoe.jar",
-			"hash": "41b8d929dcf069c3d8eb2b7ce1ce0b6a77708484b24c02ab4db1fc22cdcfb8bc",
+			"hash": "d749d947e14181bbbc41a310c8446b87fe0d947a4b51ffe3a3c7603868063db1",
 			"description": "Displays where AoE attacks are going to land."
 		},
 		{
@@ -383,6 +383,14 @@
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/toaplus.jar",
 			"hash": "05e7c0dc7f7374d10db89881a113634f728a0ba152cd7ebeec1faaff0566eca4",
 			"description": "ToA stuff and such and things and the works and the likes"
+		},
+		{
+			"name": "tormenteddemons.jar",
+			"plugins": ["com.chimera.tormentedDemons.TormentedDemonsPlugin"],
+			"version": "1.0.0",
+			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/tormenteddemons.jar",
+			"hash": "3175f66e5a1b06493108239df432c9b9f218bdb25ef9c011d25d10ed985ebcab",
+			"description": "Tormented Demons plugin."
 		},
 		{
 			"name": "wildybossplus.jar",
