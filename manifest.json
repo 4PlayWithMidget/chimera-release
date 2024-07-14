@@ -386,7 +386,7 @@
 		},
 		{
 			"name": "tormenteddemons.jar",
-			"plugins": ["com.chimera.tormentedDemons.TormentedDemonsPlugin"],
+			"plugins": ["com.chimera.tormenteddemons.TormentedDemonsPlugin"],
 			"version": "1.0.0",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/tormenteddemons.jar",
 			"hash": "3175f66e5a1b06493108239df432c9b9f218bdb25ef9c011d25d10ed985ebcab",
