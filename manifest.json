@@ -21,7 +21,7 @@
 			"plugins": ["com.chimera.araxxor.AraxxorPlugin"],
 			"version": "1.0.0",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/araxxor.jar",
-			"hash": "974bd0dd3bb92c0effd455518514f304ea362ec498fc3678d178d795ab7668d0",
+			"hash": "23c7567cf8219843b2ccbddd6905835944dbfe5e714b53fc127daf03fb06c1d3",
 			"description": "Araxxor plugin."
 		},
 		{
