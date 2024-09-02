@@ -19,9 +19,9 @@
 		{
 			"name": "araxxor.jar",
 			"plugins": ["com.chimera.araxxor.AraxxorPlugin"],
-			"version": "1.0.0",
+			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/araxxor.jar",
-			"hash": "23c7567cf8219843b2ccbddd6905835944dbfe5e714b53fc127daf03fb06c1d3",
+			"hash": "ce4a624cfa1e52f50c4b1d3abbedc489c609c9da02f41d9691d25a7092b4ad77",
 			"description": "Araxxor plugin."
 		},
 		{
@@ -59,9 +59,9 @@
 		{
 			"name": "colosseumplus.jar",
 			"plugins": ["com.chimera.colosseumplus.ColosseumPlusPlugin"],
-			"version": "1.1.2",
+			"version": "1.1.3",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/colosseumplus.jar",
-			"hash": "4cff289afb1b6876d8f0736254cbbc6b20b19d80db3920e25193d0c9f93a50dd",
+			"hash": "b8a980ce97c84b9102c5300657bb33defa08dd7691233e21a5e0ab42fdea95fa",
 			"description": "Fortis Colosseum plugin."
 		},
 		{
