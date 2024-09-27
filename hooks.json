@@ -106,13 +106,13 @@
     {
       "n": "isMoving",
       "c": "dy",
-      "p": "cp",
+      "p": "ds",
       "m": 166438615
     },
     {
       "n": "getActorAnimationId",
       "c": "dy",
-      "p": "by",
+      "p": "cd",
       "m": 1036457443
     }
   ]
