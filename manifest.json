@@ -59,9 +59,9 @@
 		{
 			"name": "colosseumplus.jar",
 			"plugins": ["com.chimera.colosseumplus.ColosseumPlusPlugin"],
-			"version": "1.1.4",
+			"version": "1.1.5",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/colosseumplus.jar",
-			"hash": "8a92a31c652a93786e29d306d65da05770c16a20a1f1e7342a01e61e4f2bd481",
+			"hash": "a65bfaa6eee2b2e2788f4bd22c3cc99474667b3b39d13732d2ba5ff293fc72a6",
 			"description": "Fortis Colosseum plugin."
 		},
 		{
@@ -79,6 +79,14 @@
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/customgraphics.jar",
 			"hash": "51aee3bc57035a258d5944ac68a6fa2cdd2cf4621834bcde4130a5338af4b4cd",
 			"description": "Adds custom graphics"
+		},
+		{
+			"name": "debugtool.jar",
+			"plugins": ["com.chimera.debugtool.DebugToolPlugin"],
+			"version": "1.0.0",
+			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/debugtool.jar",
+			"hash": "2238b1181916d1b6e6b8afd841020921bc76f2c3d2055d3ffe78ff3465a11e41",
+			"description": "Additional developer tools for plugin development."
 		},
 		{
 			"name": "decorhighlight.jar",
