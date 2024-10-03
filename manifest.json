@@ -51,9 +51,9 @@
 		{
 			"name": "chimeraexternalmanager.jar",
 			"plugins": ["com.chimera.chimeraexternalmanager.ChimeraExternalManager"],
-			"version": "1.1.0",
+			"version": "1.1.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/chimeraexternalmanager.jar",
-			"hash": "2402a1905b7ce57325aaefcc3e86b20bb29b72991791a722dcf0709c2bae57b8",
+			"hash": "2b153cfb8dd6daa4208d76c89d5b4604607e751540beb2b85a0e81c3969f1947",
 			"description": "Loads plugins from repos"
 		},
 		{
