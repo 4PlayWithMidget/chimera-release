@@ -67,9 +67,9 @@
 		{
 			"name": "cursed.jar",
 			"plugins": ["com.chimera.cursed.CursedPlugin"],
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/cursed.jar",
-			"hash": "8788e8dfe9dcb5e39e066173c056cbbbe24f19f5ddbd8acd6402801c7744b2fb",
+			"hash": "7852d856145537e51e8cb1fc575716a61e680ed004d78b19a60ea1c19caa7def",
 			"description": "I don't know why....i don't know how.. it just is"
 		},
 		{
