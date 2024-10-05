@@ -20,6 +20,18 @@
       "m": 1
     },
     {
+      "n": "setSelectedSceneTileX",
+      "c": "jh",
+      "p": "bz",
+      "m": 1
+    },
+    {
+      "n": "setSelectedSceneTileY",
+      "c": "jh",
+      "p": "bu",
+      "m": 1
+    },
+    {
       "n": "setSelectedSpellWidget",
       "c": "bp",
       "p": "og",
@@ -44,10 +56,40 @@
       "m": 1
     },
     {
+      "n": "isMoving",
+      "c": "dy",
+      "p": "ds",
+      "m": 166438615
+    },
+    {
+      "n": "getActorAnimationId",
+      "c": "dy",
+      "p": "cd",
+      "m": 1036457443
+    },
+    {
       "n": "menuOptionsCount",
       "c": "vl",
-      "p": "ae",
+      "p": "qk",
       "m": 2098117423
+    },
+    {
+      "n": "menuParam0Array",
+      "c": "vl",
+      "p": "ag",
+      "m": 1
+    },
+    {
+      "n": "menuParam1Array",
+      "c": "vl",
+      "p": "am",
+      "m": 1
+    },
+    {
+      "n": "menuTypesArray",
+      "c": "vl",
+      "p": "ax",
+      "m": 1
     },
     {
       "n": "menuIdentifiersArray",
@@ -68,52 +110,10 @@
       "m": 1
     },
     {
-      "n": "menuParam0Array",
-      "c": "vl",
-      "p": "ag",
-      "m": 1
-    },
-    {
-      "n": "menuParam1Array",
-      "c": "vl",
-      "p": "am",
-      "m": 1
-    },
-    {
       "n": "menuTargetsArray",
       "c": "vl",
       "p": "ar",
       "m": 1
-    },
-    {
-      "n": "menuTypesArray",
-      "c": "vl",
-      "p": "ax",
-      "m": 1
-    },
-    {
-      "n": "setSelectedSceneTileX",
-      "c": "jh",
-      "p": "bz",
-      "m": 1
-    },
-    {
-      "n": "setSelectedSceneTileY",
-      "c": "jh",
-      "p": "bu",
-      "m": 1
-    },
-    {
-      "n": "isMoving",
-      "c": "dy",
-      "p": "ds",
-      "m": 166438615
-    },
-    {
-      "n": "getActorAnimationId",
-      "c": "dy",
-      "p": "cd",
-      "m": 1036457443
     }
   ]
 }

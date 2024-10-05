@@ -11,9 +11,9 @@
 		{
 			"name": "aoe.jar",
 			"plugins": ["com.chimera.aoe.ProjectilePlugin"],
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/aoe.jar",
-			"hash": "3d6ad27f022e97d422440df04f67bf5773d865f9eb9bb0557bff3528b791f1f4",
+			"hash": "6e7a2f87c7f70e158d809a9150a0bcdfb67509d03d923838c5061f4ae744def4",
 			"description": "Displays where AoE attacks are going to land."
 		},
 		{
@@ -387,9 +387,9 @@
 		{
 			"name": "toaplus.jar",
 			"plugins": ["com.chimera.toaplus.ToaPlusPlugin"],
-			"version": "1.0.4",
+			"version": "1.0.5",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/toaplus.jar",
-			"hash": "6cf38944b5d592273bd0cd9f048bc67c7179f2879c39eca7a9500bccaa670606",
+			"hash": "a9d427a37a7e7412a033ce78089272824959887a34a3f8ea255da39c4cb40513",
 			"description": "ToA stuff and such and things and the works and the likes"
 		},
 		{
