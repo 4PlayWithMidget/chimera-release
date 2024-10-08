@@ -59,9 +59,9 @@
 		{
 			"name": "colosseumplus.jar",
 			"plugins": ["com.chimera.colosseumplus.ColosseumPlusPlugin"],
-			"version": "1.1.6",
+			"version": "1.1.7",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/colosseumplus.jar",
-			"hash": "c869de51db03599353b3cd5b40e09c67011f04ae207098ee714b72df45a84e89",
+			"hash": "797e9cee39b921c834944428f466e1b316935a7bb23f29e155e6edfd1002b1e4",
 			"description": "Fortis Colosseum plugin."
 		},
 		{
@@ -299,17 +299,17 @@
 		{
 			"name": "specbar.jar",
 			"plugins": ["com.chimera.specbar.SpecBarPlugin"],
-			"version": "1.0.7",
+			"version": "1.0.8",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/specbar.jar",
-			"hash": "97a337d1d573a51c0812a5961f2108f3222fee8d6141ad7a9cb056f8a4ef9eae",
+			"hash": "5108aa862c679b2717ba7cdbc4f6ff6f08f864de95d20003eaa05de5fed5a130",
 			"description": "Adds a spec bar to every weapon."
 		},
 		{
 			"name": "specorb.jar",
 			"plugins": ["com.chimera.specorb.SpecOrbPlugin"],
-			"version": "1.0.7",
+			"version": "1.0.8",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/specorb.jar",
-			"hash": "5f85a2dad4b6ca77099494aea63fdd306555351d442acc4080b2632c06acd7e0",
+			"hash": "4338ea297bdaa649fde3d53a2df0af975e84c1ea70c08ec2eca6924189c7ac68",
 			"description": "Allows you to 1 tick the spec orb."
 		},
 		{
@@ -323,9 +323,9 @@
 		{
 			"name": "spoonezswaps.jar",
 			"plugins": ["com.chimera.spoonezswaps.SpoonEzSwapsPlugin"],
-			"version": "1.0.6",
+			"version": "1.0.7",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoonezswaps.jar",
-			"hash": "188f2e615ed3cc8ed616160afaa0a93e8e632868f97d3bcead9ce861fdb4d288",
+			"hash": "33da1872460a8f5c81a7edafbd21ab975116bcdcd448ab1789a9869005575982",
 			"description": "All in 1 swaps plugin."
 		},
 		{
@@ -363,9 +363,9 @@
 		{
 			"name": "spoontob.jar",
 			"plugins": ["com.chimera.spoontob.SpoonTobPlugin"],
-			"version": "1.0.9",
+			"version": "1.0.10",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoontob.jar",
-			"hash": "7bb2eb0056f3a7603917e1d3eba3e3662092e5e6a1ed20ff7e427e28bef66620",
+			"hash": "75644f2fda6d869b965bb9a3701e77535d73025ef1e2d9a72ef3f6de6d9cce44",
 			"description": "Best ToB plugin ever."
 		},
 		{
