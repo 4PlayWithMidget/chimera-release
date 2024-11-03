@@ -59,9 +59,9 @@
 		{
 			"name": "colosseumplus.jar",
 			"plugins": ["com.chimera.colosseumplus.ColosseumPlusPlugin"],
-			"version": "1.1.10",
+			"version": "1.2.0",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/colosseumplus.jar",
-			"hash": "eaff383417df45d53016b2a50c1dc4c41328febb1b021ff801907f4593453a30",
+			"hash": "742d009400fab45ce5d2ffc92d238dbf688b7a38482bdf6946c1e609d6a77074",
 			"description": "Fortis Colosseum plugin."
 		},
 		{
@@ -339,9 +339,9 @@
 		{
 			"name": "spoonnex.jar",
 			"plugins": ["com.chimera.spoonnex.SpoonNexPlugin"],
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoonnex.jar",
-			"hash": "298bcc87427afa23eda0740ef67e666b2197e20fb98440e800273f95fd9dd695",
+			"hash": "cb50ddd3dfcdf13d6df3499546bcc0dc6de672568cc91ffabf7d49a7e15c4d66",
 			"description": "Best Nex plugin."
 		},
 		{
