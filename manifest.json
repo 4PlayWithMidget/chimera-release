@@ -169,6 +169,14 @@
 			"description": "Plugin for those who cannot do Jad."
 		},
 		{
+			"name": "muspahpluspah.jar",
+			"plugins": ["com.chimera.muspahpluspah.MuspahPluspahPlugin"],
+			"version": "1.0.0",
+			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/muspahpluspah.jar",
+			"hash": "f10dfc6def3a1bad683cff9b15a27e54444295ad93ccee60819f1791f40b871d",
+			"description": "Muspah plugin."
+		},
+		{
 			"name": "orbpulse.jar",
 			"plugins": ["com.chimera.orbpulse.OrbPulsePlugin"],
 			"version": "1.0.1",
