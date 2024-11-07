@@ -411,9 +411,9 @@
 		{
 			"name": "wildybossplus.jar",
 			"plugins": ["com.chimera.wildybossplus.WildyBossPlusPlugin"],
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/wildybossplus.jar",
-			"hash": "cfab338aa68bd1bb38fa8aeec7ab3e1598a6fdfce5a990ad551eaa4ad1e6d698",
+			"hash": "b382ff5c42d304fe174f9085173bef7de24393bdfb6165181f652d08c1407d92",
 			"description": "Extra wildy boss plugins (AoE indicators are in AoE plugin)"
 		},
 		{
