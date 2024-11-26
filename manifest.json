@@ -307,9 +307,9 @@
 		{
 			"name": "specbar.jar",
 			"plugins": ["com.chimera.specbar.SpecBarPlugin"],
-			"version": "1.0.10",
+			"version": "1.0.11",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/specbar.jar",
-			"hash": "d0d74cdc48ede972c91f88a09e7d5f2cec72f5d9bce15796ae33ed7a75d1591f",
+			"hash": "f8cc7ebd89fc76cb242d462c79451c260a2403658c1aa0bba6a2c4e3f59d6e68",
 			"description": "Adds a spec bar to every weapon."
 		},
 		{
