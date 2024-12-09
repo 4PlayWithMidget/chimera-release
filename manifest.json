@@ -113,6 +113,14 @@
 			"description": "Additional developer tools for plugin development."
 		},
 		{
+			"name": "dksplus.jar",
+			"plugins": ["com.chimera.dksplus.DksPlusPlugin"],
+			"version": "1.0.0",
+			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/dksplus.jar",
+			"hash": "2feab264b863de2cabd8e4f8e810d310ba7555d94ee0338547ae4d5b18b2a085",
+			"description": "Plugin for dagannoth kings."
+		},
+		{
 			"name": "dt2.jar",
 			"plugins": ["com.chimera.dt2.Dt2Plugin"],
 			"version": "1.0.4",
@@ -339,9 +347,9 @@
 		{
 			"name": "spoongauntlet.jar",
 			"plugins": ["com.chimera.spoongauntlet.SpoonGauntletPlugin"],
-			"version": "1.0.3",
+			"version": "1.0.4",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoongauntlet.jar",
-			"hash": "7151c3cf37be70edf8afe33072143a803cdc0fa43608e7d7858fbd754dfa032b",
+			"hash": "ef52a295625d341659c3a04adc13e9d3732151c32d97b767d4f7a7065a870dd6",
 			"description": "Best Gauntlet plugin."
 		},
 		{
