@@ -317,7 +317,7 @@
 			"plugins": ["com.chimera.specbar.SpecBarPlugin"],
 			"version": "1.0.12",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/specbar.jar",
-			"hash": "7bb59f9116a26d87899dcd783a9d1a270415701314bc31bb037aa295122bd93d",
+			"hash": "0b9d66b83140909faed4246bd2908facbae49a4df9385ca84397776c4aac38f2",
 			"description": "Adds a spec bar to every weapon."
 		},
 		{
@@ -325,7 +325,7 @@
 			"plugins": ["com.chimera.specorb.SpecOrbPlugin"],
 			"version": "1.0.12",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/specorb.jar",
-			"hash": "356c5b9eafaa91147989535ba7bf28e0e85955de06e1d0dba68ad388d0cbe65e",
+			"hash": "7ade9270f9bae6a4c5a73ffb2c620b0af185fa8bec2ddcc7e3d183c9212dfbb0",
 			"description": "Allows you to 1 tick the spec orb."
 		},
 		{
