@@ -333,7 +333,7 @@
 			"plugins": ["com.chimera.spooncox.SpoonCoxPlugin"],
 			"version": "1.0.7",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spooncox.jar",
-			"hash": "1e475e5e544c19a90ef6f30358e70a492b7bd823655ad80231e309b8c96e9fff",
+			"hash": "73984774cc79cd386977f6c13618dcc9e2941463adedd1bf9c2f8133653d15f5",
 			"description": "Additional stuff for CoX."
 		},
 		{
