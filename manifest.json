@@ -13,7 +13,7 @@
 			"plugins": ["com.chimera.aoe.ProjectilePlugin"],
 			"version": "1.0.3",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/aoe.jar",
-			"hash": "f08970af38b7802724eb203913420b4944807a5e3e185986987e1fe2122a0a70",
+			"hash": "189e758c9ba17166d53fb4a7aebf2b9d463f9b8d9eabb6da41c26c97308d4636",
 			"description": "Displays where AoE attacks are going to land."
 		},
 		{
@@ -85,7 +85,7 @@
 			"plugins": ["com.chimera.debugtool.DebugToolPlugin"],
 			"version": "1.0.0",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/debugtool.jar",
-			"hash": "883e4445f62e647509c83f0e43509de020f7c490477ce74283ef94b38fcce620",
+			"hash": "ba2038d81073e6d3f2c13c81759259ecf8618b67bc1dc8a6eea5fe2537a4fb4b",
 			"description": "Additional developer tools for plugin development."
 		},
 		{
@@ -117,7 +117,7 @@
 			"plugins": ["com.chimera.dksplus.DksPlusPlugin"],
 			"version": "1.0.0",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/dksplus.jar",
-			"hash": "c138756a19c9e3354df42d15b2476b7a9f33ea18e3721f7ab21982395e5ed218",
+			"hash": "ea524f492ba12666ffd0270abe6b3fe19e47866f9a6a7129db9d3e6bd45cb652",
 			"description": "Plugin for dagannoth kings."
 		},
 		{
@@ -181,7 +181,7 @@
 			"plugins": ["com.chimera.muspahpluspah.MuspahPluspahPlugin"],
 			"version": "1.0.0",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/muspahpluspah.jar",
-			"hash": "f10dfc6def3a1bad683cff9b15a27e54444295ad93ccee60819f1791f40b871d",
+			"hash": "81d3268c8e975427b49b7f9cbc7f08b6712bfdb9317880a8ba02eec76b781585",
 			"description": "Muspah plugin."
 		},
 		{
