@@ -13,7 +13,7 @@
 			"plugins": ["com.chimera.aoe.ProjectilePlugin"],
 			"version": "1.0.3",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/aoe.jar",
-			"hash": "6e7a2f87c7f70e158d809a9150a0bcdfb67509d03d923838c5061f4ae744def4",
+			"hash": "f08970af38b7802724eb203913420b4944807a5e3e185986987e1fe2122a0a70",
 			"description": "Displays where AoE attacks are going to land."
 		},
 		{
@@ -53,15 +53,15 @@
 			"plugins": ["com.chimera.chimeraexternalmanager.ChimeraExternalManager"],
 			"version": "1.1.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/chimeraexternalmanager.jar",
-			"hash": "2b153cfb8dd6daa4208d76c89d5b4604607e751540beb2b85a0e81c3969f1947",
+			"hash": "8fe6b62a2fe30578cf4466ab34f7c3b5223354608f09774f58e6348484402f61",
 			"description": "Loads plugins from repos"
 		},
 		{
 			"name": "colosseumplus.jar",
 			"plugins": ["com.chimera.colosseumplus.ColosseumPlusPlugin"],
-			"version": "1.2.1",
+			"version": "1.2.2",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/colosseumplus.jar",
-			"hash": "d8dcd166d9f9c0de2a5eed0aff335b910e032ea44a71167f1e628fcd70bfe26d",
+			"hash": "c07b9428b7d19016e8320f7c412047eebbfbb81d3227af0c1faab1f03cf2de46",
 			"description": "Fortis Colosseum plugin."
 		},
 		{
@@ -85,7 +85,7 @@
 			"plugins": ["com.chimera.debugtool.DebugToolPlugin"],
 			"version": "1.0.0",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/debugtool.jar",
-			"hash": "f30532205da56fa2888b5c7f695edeeb03783fc25bf7543b8930ab82a1ed2a03",
+			"hash": "883e4445f62e647509c83f0e43509de020f7c490477ce74283ef94b38fcce620",
 			"description": "Additional developer tools for plugin development."
 		},
 		{
@@ -109,7 +109,7 @@
 			"plugins": ["com.chimera.developertools.ToolsPlugin"],
 			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/developertools.jar",
-			"hash": "85eddc8748eaf5f5fce9c8dfffc4aa494f903267078be8f939c3588c76928560",
+			"hash": "2634f390195c71e75003b916cdd0e28b1c57bd2b017f6870889c7462aad6a3f0",
 			"description": "Additional developer tools for plugin development."
 		},
 		{
@@ -117,7 +117,7 @@
 			"plugins": ["com.chimera.dksplus.DksPlusPlugin"],
 			"version": "1.0.0",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/dksplus.jar",
-			"hash": "2feab264b863de2cabd8e4f8e810d310ba7555d94ee0338547ae4d5b18b2a085",
+			"hash": "c138756a19c9e3354df42d15b2476b7a9f33ea18e3721f7ab21982395e5ed218",
 			"description": "Plugin for dagannoth kings."
 		},
 		{
@@ -211,9 +211,9 @@
 		{
 			"name": "pvpplayerindicators.jar",
 			"plugins": ["com.chimera.pvpplayerindicators.PvPPlayerIndicatorsPlugin"],
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/pvpplayerindicators.jar",
-			"hash": "06f11416e6d4677bb15a8593414fd280efeac99b392aa278743a15820fbe0698",
+			"hash": "50f4ff1fe356d8140ac748ace92765a93b6121535803fcbf9ea1e580bcfa8e8f",
 			"description": "Additional player indicators features for PvP"
 		},
 		{
@@ -331,9 +331,9 @@
 		{
 			"name": "spooncox.jar",
 			"plugins": ["com.chimera.spooncox.SpoonCoxPlugin"],
-			"version": "1.0.7",
+			"version": "1.0.8",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spooncox.jar",
-			"hash": "73984774cc79cd386977f6c13618dcc9e2941463adedd1bf9c2f8133653d15f5",
+			"hash": "d55e63a8fe3371b925b596c17547d79fd9982a913e352802d43341e597a0016a",
 			"description": "Additional stuff for CoX."
 		},
 		{
@@ -379,9 +379,9 @@
 		{
 			"name": "spoontob.jar",
 			"plugins": ["com.chimera.spoontob.SpoonTobPlugin"],
-			"version": "1.0.13",
+			"version": "1.0.14",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoontob.jar",
-			"hash": "9ca2b507bc34f1403af8e201e3ed69d0eee6ff41a9e8534126ab55d613844e0b",
+			"hash": "ae412b14305702ea40aa99c5686544cd70190444c17e16e1a7ab0b5224bd3838",
 			"description": "Best ToB plugin ever."
 		},
 		{
@@ -427,9 +427,9 @@
 		{
 			"name": "zulrah.jar",
 			"plugins": ["com.chimera.zulrah.ZulrahPlugin"],
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/zulrah.jar",
-			"hash": "9632f9c8331241b7f4f29c79c50285104e3718168577fcf2a6899203ba3ec080",
+			"hash": "69e9027c4ddb341326e4efdeba5b6dc31de37bd66b6ab8c53a621c51a8e3a94e",
 			"description": "An overlay for the Zulrah fight."
 		}
 	]
