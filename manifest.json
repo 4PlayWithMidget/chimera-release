@@ -83,9 +83,9 @@
 		{
 			"name": "debugtool.jar",
 			"plugins": ["com.chimera.debugtool.DebugToolPlugin"],
-			"version": "1.0.0",
+			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/debugtool.jar",
-			"hash": "ba2038d81073e6d3f2c13c81759259ecf8618b67bc1dc8a6eea5fe2537a4fb4b",
+			"hash": "e6ec6b488b5b8ebbfba4b1598a30c6ead9641d55b4083af5a6d4a2162b0315c3",
 			"description": "Additional developer tools for plugin development."
 		},
 		{
@@ -423,6 +423,14 @@
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/wildybossplus.jar",
 			"hash": "b382ff5c42d304fe174f9085173bef7de24393bdfb6165181f652d08c1407d92",
 			"description": "Extra wildy boss plugins (AoE indicators are in AoE plugin)"
+		},
+		{
+			"name": "yamaplus.jar",
+			"plugins": ["com.chimera.yamaplus.YamaPlusPlugin"],
+			"version": "1.0.0",
+			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/yamaplus.jar",
+			"hash": "d1ea7cb7ee70b1bcadaa34690d1993044e01635a93baa9a6d15c283961b45c7d",
+			"description": "Yama stuff and such and things and the likes and the works"
 		},
 		{
 			"name": "zulrah.jar",
