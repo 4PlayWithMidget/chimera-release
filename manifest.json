@@ -427,9 +427,9 @@
 		{
 			"name": "yamaplus.jar",
 			"plugins": ["com.chimera.yamaplus.YamaPlusPlugin"],
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/yamaplus.jar",
-			"hash": "88ec242982c3637824e801cfba3daa50a110af381038400049c87d963c7247f9",
+			"hash": "8a0ab8c8c2f7113665b123ce7605a24d9fe4025632d4e004c0f33305f7b4eeaa",
 			"description": "Yama stuff and such and things and the likes and the works"
 		},
 		{
