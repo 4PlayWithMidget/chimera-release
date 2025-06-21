@@ -11,9 +11,9 @@
 		{
 			"name": "aoe.jar",
 			"plugins": ["com.chimera.aoe.ProjectilePlugin"],
-			"version": "1.0.3",
+			"version": "1.0.4",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/aoe.jar",
-			"hash": "b830f7ea3832c9c039a967baa92583611234535a430f5274e7646a240fe1f4c3",
+			"hash": "5e3ccaa0b7cf75c4385bfc066521be0ac3d1bfa80529ede878e4b9102f0fc63a",
 			"description": "Displays where AoE attacks are going to land."
 		},
 		{
