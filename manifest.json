@@ -117,7 +117,7 @@
 			"plugins": ["com.chimera.dksplus.DksPlusPlugin"],
 			"version": "1.0.0",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/dksplus.jar",
-			"hash": "ea524f492ba12666ffd0270abe6b3fe19e47866f9a6a7129db9d3e6bd45cb652",
+			"hash": "944e17821e7e57e7e2386fc747f265c7b0973861e39befd29c77ad8efe929bc7",
 			"description": "Plugin for dagannoth kings."
 		},
 		{
@@ -181,7 +181,7 @@
 			"plugins": ["com.chimera.muspahpluspah.MuspahPluspahPlugin"],
 			"version": "1.0.0",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/muspahpluspah.jar",
-			"hash": "81d3268c8e975427b49b7f9cbc7f08b6712bfdb9317880a8ba02eec76b781585",
+			"hash": "1e49aea2749db28380538d5d37c477198493cf46fde4dad33bbd2d8ccc004bbc",
 			"description": "Muspah plugin."
 		},
 		{
@@ -405,7 +405,7 @@
 			"plugins": ["com.chimera.toaplus.ToaPlusPlugin"],
 			"version": "1.0.10",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/toaplus.jar",
-			"hash": "17f725d529ed0f77d39ae5782d1558a734a626c23ee6482b8558e40548cf9086",
+			"hash": "529f70798cbca7556abcde2ba0e2a595d5be51baafe6144d1d36ef89f24bc4c1",
 			"description": "ToA stuff and such and things and the works and the likes"
 		},
 		{
@@ -413,7 +413,7 @@
 			"plugins": ["com.chimera.tormenteddemons.TormentedDemonsPlugin"],
 			"version": "1.0.0",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/tormenteddemons.jar",
-			"hash": "0e4d349640f3977e41c2baf275c6b19c8ccf0bbe05f41b384a7b65a13ceed4bd",
+			"hash": "bf62f05ee6f0176ff0116acac3b0cb43813ffb14daff400ee283dd7bc74e695f",
 			"description": "Tormented Demons plugin."
 		},
 		{
@@ -421,7 +421,7 @@
 			"plugins": ["com.chimera.wildybossplus.WildyBossPlusPlugin"],
 			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/wildybossplus.jar",
-			"hash": "b382ff5c42d304fe174f9085173bef7de24393bdfb6165181f652d08c1407d92",
+			"hash": "b50a753f5f0dee95b5596f13dc8630d7796423b1b0b7f47e520007d9ec7267f1",
 			"description": "Extra wildy boss plugins (AoE indicators are in AoE plugin)"
 		},
 		{
@@ -429,7 +429,7 @@
 			"plugins": ["com.chimera.yamaplus.YamaPlusPlugin"],
 			"version": "1.0.5",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/yamaplus.jar",
-			"hash": "4fb1563c6fb9ae4825ea20561bdf54e15d5dc6409ab81888250261da95b0729c",
+			"hash": "82ab8fe2472a11e56be3a4cde81e91ca6d1a758d765b5b78433e78e7efcdbadd",
 			"description": "Yama stuff and such and things and the likes and the works"
 		},
 		{
