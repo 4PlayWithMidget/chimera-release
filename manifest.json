@@ -85,7 +85,7 @@
 			"plugins": ["com.chimera.debugtool.DebugToolPlugin"],
 			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/debugtool.jar",
-			"hash": "9f9f05c88ccd420181c783a372822e8462827129e6b5cd9d3590b326759d32b5",
+			"hash": "27aa5423ebca91092c92ac13354e604cc23a3eb8327077e2f18fafd86042ef98",
 			"description": "Additional developer tools for plugin development."
 		},
 		{
@@ -381,7 +381,7 @@
 			"plugins": ["com.chimera.spoontob.SpoonTobPlugin"],
 			"version": "1.0.14",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoontob.jar",
-			"hash": "ae412b14305702ea40aa99c5686544cd70190444c17e16e1a7ab0b5224bd3838",
+			"hash": "83c2f0678bbfc090c4d556b2e3ca30c17d22152435943b7a4c7b38ec7b002aac",
 			"description": "Best ToB plugin ever."
 		},
 		{
