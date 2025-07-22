@@ -97,6 +97,14 @@
 			"description": "Highlights a custom list of graphic objects and ground decorations."
 		},
 		{
+			"name": "delvediggers.jar",
+			"plugins": ["com.chimera.delvediggers.DelveDiggersPlugin"],
+			"version": "1.0.0",
+			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/delvediggers.jar",
+			"hash": "00ae29ab6628186519e92dfa93b65732ff688ddef587f5dfb2e418f4fa08c007",
+			"description": "Where my diggers at"
+		},
+		{
 			"name": "demonicgorilla.jar",
 			"plugins": ["com.chimera.demonicgorilla.DemonicGorillaPlugin"],
 			"version": "1.0.1",
