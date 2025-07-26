@@ -67,9 +67,9 @@
 		{
 			"name": "cursed.jar",
 			"plugins": ["com.chimera.cursed.CursedPlugin"],
-			"version": "1.0.3",
+			"version": "1.0.4",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/cursed.jar",
-			"hash": "7852d856145537e51e8cb1fc575716a61e680ed004d78b19a60ea1c19caa7def",
+			"hash": "d409ef4c1400177e75d0d2e6b3dde14795e40a49a32c0c6ae6e4dc5746b674f2",
 			"description": "I don't know why....i don't know how.. it just is"
 		},
 		{
@@ -83,9 +83,9 @@
 		{
 			"name": "debugtool.jar",
 			"plugins": ["com.chimera.debugtool.DebugToolPlugin"],
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/debugtool.jar",
-			"hash": "27aa5423ebca91092c92ac13354e604cc23a3eb8327077e2f18fafd86042ef98",
+			"hash": "f1b8c8c965ca243985d861932734f71b3d24297944783d23ab797c540be13f3d",
 			"description": "Additional developer tools for plugin development."
 		},
 		{
@@ -99,9 +99,9 @@
 		{
 			"name": "delvediggers.jar",
 			"plugins": ["com.chimera.delvediggers.DelveDiggersPlugin"],
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/delvediggers.jar",
-			"hash": "ec788f8f086d5d1cddbc07c8a02d38050053b4a7b7bfeb712044b6a5dc5c7374",
+			"hash": "8ef0a1e2001f41fd5409ac3eaab75a01fddc14f14396f9746ddbcd9db5a646ab",
 			"description": "Where my diggers at"
 		},
 		{
