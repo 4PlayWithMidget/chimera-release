@@ -59,9 +59,9 @@
 		{
 			"name": "colosseumplus.jar",
 			"plugins": ["com.chimera.colosseumplus.ColosseumPlusPlugin"],
-			"version": "1.2.2",
+			"version": "1.2.3",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/colosseumplus.jar",
-			"hash": "c07b9428b7d19016e8320f7c412047eebbfbb81d3227af0c1faab1f03cf2de46",
+			"hash": "66bfb2b17278efc864c91bce12221bc0bd1d0607d88a0203550d28342362a8f1",
 			"description": "Fortis Colosseum plugin."
 		},
 		{
@@ -83,9 +83,9 @@
 		{
 			"name": "debugtool.jar",
 			"plugins": ["com.chimera.debugtool.DebugToolPlugin"],
-			"version": "1.0.3",
+			"version": "1.0.4",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/debugtool.jar",
-			"hash": "f1b8c8c965ca243985d861932734f71b3d24297944783d23ab797c540be13f3d",
+			"hash": "35d042134f03edb7475924f58a78f63d148bdfe4825a772b2ef1b1af130ac98c",
 			"description": "Additional developer tools for plugin development."
 		},
 		{
@@ -99,9 +99,9 @@
 		{
 			"name": "delvediggers.jar",
 			"plugins": ["com.chimera.delvediggers.DelveDiggersPlugin"],
-			"version": "1.0.3",
+			"version": "1.0.4",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/delvediggers.jar",
-			"hash": "8ef0a1e2001f41fd5409ac3eaab75a01fddc14f14396f9746ddbcd9db5a646ab",
+			"hash": "67b000fb2506ed8e3d33b618644e00b95294827f29be2b989fb7d9d96127efba",
 			"description": "Where my diggers at"
 		},
 		{
@@ -323,17 +323,17 @@
 		{
 			"name": "specbar.jar",
 			"plugins": ["com.chimera.specbar.SpecBarPlugin"],
-			"version": "1.0.12",
+			"version": "1.0.13",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/specbar.jar",
-			"hash": "7bb59f9116a26d87899dcd783a9d1a270415701314bc31bb037aa295122bd93d",
+			"hash": "6776ee4480ecb55b3f9a91ea44a06138c2b3bbabc9c5ad1e2b66ceb1a6980601",
 			"description": "Adds a spec bar to every weapon."
 		},
 		{
 			"name": "specorb.jar",
 			"plugins": ["com.chimera.specorb.SpecOrbPlugin"],
-			"version": "1.0.12",
+			"version": "1.0.13",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/specorb.jar",
-			"hash": "356c5b9eafaa91147989535ba7bf28e0e85955de06e1d0dba68ad388d0cbe65e",
+			"hash": "0532ec1da2d5757ea96f624a8234317fa78981274c0190348067920e7b2e6f04",
 			"description": "Allows you to 1 tick the spec orb."
 		},
 		{
@@ -347,9 +347,9 @@
 		{
 			"name": "spoonezswaps.jar",
 			"plugins": ["com.chimera.spoonezswaps.SpoonEzSwapsPlugin"],
-			"version": "1.0.10",
+			"version": "1.0.11",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoonezswaps.jar",
-			"hash": "4959694a42de4f5c2b9a1d8574a487ce0078e96efadaf45ba7beda4e1b71efe2",
+			"hash": "6061562b8f2d22cf1d9c37d93a8bf5beb2583631af8a863ab6bd30da069d0f79",
 			"description": "All in 1 swaps plugin."
 		},
 		{
@@ -387,9 +387,9 @@
 		{
 			"name": "spoontob.jar",
 			"plugins": ["com.chimera.spoontob.SpoonTobPlugin"],
-			"version": "1.0.16",
+			"version": "1.0.17",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoontob.jar",
-			"hash": "6d94d6659059cbe5cc473e37983281b6951db4037dafea741cac48b1349424c3",
+			"hash": "6f41176bba1dc3da2cd3cd70df90a653a6a1cbda5b881bb809ef21176333e788",
 			"description": "Best ToB plugin ever."
 		},
 		{
