@@ -387,9 +387,9 @@
 		{
 			"name": "spoontob.jar",
 			"plugins": ["com.chimera.spoontob.SpoonTobPlugin"],
-			"version": "1.0.17",
+			"version": "1.0.18",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoontob.jar",
-			"hash": "6f41176bba1dc3da2cd3cd70df90a653a6a1cbda5b881bb809ef21176333e788",
+			"hash": "fec7aff59bda2acb63439cb6400ae844d5fe7ddf4b9c39afc4796818b4b9c7fb",
 			"description": "Best ToB plugin ever."
 		},
 		{
