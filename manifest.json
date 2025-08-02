@@ -99,9 +99,9 @@
 		{
 			"name": "delvediggers.jar",
 			"plugins": ["com.chimera.delvediggers.DelveDiggersPlugin"],
-			"version": "1.0.6",
+			"version": "1.0.7",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/delvediggers.jar",
-			"hash": "85ac7146a7a40fea03b2caedadad98f201eaffaac6f68c52b06a5b6abe35c3dc",
+			"hash": "163d18d389d9b3dfc7d92690f2d71d1bfae51f1491da18b6a86409ea0394dce1",
 			"description": "Where my diggers at"
 		},
 		{
