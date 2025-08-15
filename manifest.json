@@ -83,9 +83,9 @@
 		{
 			"name": "debugtool.jar",
 			"plugins": ["com.chimera.debugtool.DebugToolPlugin"],
-			"version": "1.0.4",
+			"version": "1.0.5",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/debugtool.jar",
-			"hash": "35d042134f03edb7475924f58a78f63d148bdfe4825a772b2ef1b1af130ac98c",
+			"hash": "7a1fcfd87a3e33ef4ae75659ad8c53401802d339dd93ee5ccbadd307edfa9f25",
 			"description": "Additional developer tools for plugin development."
 		},
 		{
