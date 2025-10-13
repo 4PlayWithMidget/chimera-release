@@ -3,9 +3,9 @@
 		{
 			"name": "alchemicalhydra.jar",
 			"plugins": ["com.chimera.alchemicalhydra.HydraPlugin"],
-			"version": "1.0.5",
+			"version": "1.0.6",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/alchemicalhydra.jar",
-			"hash": "0872ef187c00a8d216918bc2685432e51be2a50514324889c0e438abc7c87f53",
+			"hash": "207403d3a3b9bc8284cec000fb9a91c169ea0dd34a1e6aa62bac10ab9f6dc17f",
 			"description": "An overlay plugin for the Alchemical Hydra boss."
 		},
 		{
@@ -277,7 +277,7 @@
 			"plugins": ["com.chimera.socketDPS.SocketDpsCounterPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/socketDPS.jar",
-			"hash": "d3ee4f27e04d8599ddf468bdc31bb6249c6bedff8b0ed3a5a0c2ef501e5cd904",
+			"hash": "1d968a459bf9293753a6379f50c8779862d42230aea269b1ca0a652fdf69a60c",
 			"description": "Tracks damage of every player in Socket"
 		},
 		{
@@ -387,9 +387,9 @@
 		{
 			"name": "spoontob.jar",
 			"plugins": ["com.chimera.spoontob.SpoonTobPlugin"],
-			"version": "1.0.18",
+			"version": "1.0.19",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoontob.jar",
-			"hash": "fec7aff59bda2acb63439cb6400ae844d5fe7ddf4b9c39afc4796818b4b9c7fb",
+			"hash": "d53ae153ddbcdf6257cfe2456814f9bf1e4c776d40f81606ed158d570e42d120",
 			"description": "Best ToB plugin ever."
 		},
 		{
