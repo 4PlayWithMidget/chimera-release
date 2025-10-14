@@ -418,11 +418,11 @@
 		},
 		{
 			"name": "toaplussimple.jar",
-			"plugins": ["com.chimera.toaplus.ToaPlusPlugin"],
+			"plugins": ["com.chimera.toaplussimple.ToaPlusPluginSimple"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/toaplussimple.jar",
-			"hash": "a002a38761a2e84301b43082638e343b8be39de963f30a16e7366c4e81c6c750",
-			"description": "ToA stuff and such and things and the works and the likes"
+			"hash": "bcf2caccdedbd2c778804cb15e148b68ce116a91685f3b10199f88b184b40ccc",
+			"description": "ToA plugins with some of the fluff taken out to run better..... maybe?"
 		},
 		{
 			"name": "tormenteddemons.jar",
