@@ -52,7 +52,7 @@
     {
       "n": "getOldNpcOverheadArray",
       "c": "hu",
-      "p": "cr",
+      "p": "dn",
       "m": 1
     },
     {
@@ -128,15 +128,21 @@
       "m": 1
     },
     {
+      "n": "menuWorldViewIdsArray",
+      "c": "xk",
+      "p": "aw",
+      "m": 1
+    },
+    {
       "n": "menuOptionsArray",
       "c": "xk",
-      "p": "ap",
+      "p": "ay",
       "m": 1
     },
     {
       "n": "menuTargetsArray",
       "c": "xk",
-      "p": "ay",
+      "p": "ap",
       "m": 1
     }
   ]
