@@ -5,7 +5,7 @@
 			"plugins": ["com.chimera.alchemicalhydra.HydraPlugin"],
 			"version": "1.0.6",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/alchemicalhydra.jar",
-			"hash": "207403d3a3b9bc8284cec000fb9a91c169ea0dd34a1e6aa62bac10ab9f6dc17f",
+			"hash": "b9f6289b2afbfdd2f3dc81d122e3a7b7ade1fc038e69ae4c82ff1a1c868c7a0f",
 			"description": "An overlay plugin for the Alchemical Hydra boss."
 		},
 		{
@@ -29,7 +29,7 @@
 			"plugins": ["com.chimera.bonylo.BoNyloPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/bonylo.jar",
-			"hash": "4fd0a2ca9b3517e6a3018944386790f223e3434f504a8a29958d05800e1006a7",
+			"hash": "698b8602fd68b4c0cc1371d4653d14ffd216ba92c66ba574c992f752ea3b366a",
 			"description": "Nylo ticks good."
 		},
 		{
@@ -285,7 +285,7 @@
 			"plugins": ["com.chimera.sockethealing.SocketHealingPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/sockethealing.jar",
-			"hash": "8dcf422a80b4a0d7b592c0adbf992ace84908fd41fa1e5865f75033fdcae6442",
+			"hash": "b39e527900310bdd31513652b1e2055aaeb55ce14ccddc9ec16ed9fd6998e99e",
 			"description": "Tracks Hitpoints of every player in Socket"
 		},
 		{
@@ -341,7 +341,7 @@
 			"plugins": ["com.chimera.spooncox.SpoonCoxPlugin"],
 			"version": "1.0.8",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spooncox.jar",
-			"hash": "d55e63a8fe3371b925b596c17547d79fd9982a913e352802d43341e597a0016a",
+			"hash": "aa4fe26ab0f4ae147c2d6556f37dd4a68e96f922f450899e7119d64c3ac50a08",
 			"description": "Additional stuff for CoX."
 		},
 		{
@@ -349,7 +349,7 @@
 			"plugins": ["com.chimera.spoonezswaps.SpoonEzSwapsPlugin"],
 			"version": "1.0.11",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoonezswaps.jar",
-			"hash": "6061562b8f2d22cf1d9c37d93a8bf5beb2583631af8a863ab6bd30da069d0f79",
+			"hash": "16ef73f0b552060735f6d5242ad6d52915f0c1e8fd804ddc09a364c01a311199",
 			"description": "All in 1 swaps plugin."
 		},
 		{
@@ -357,7 +357,7 @@
 			"plugins": ["com.chimera.spoongauntlet.SpoonGauntletPlugin"],
 			"version": "1.0.5",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoongauntlet.jar",
-			"hash": "06aead26cfeefbaa16f04e71ce1080d81eca3a809979656932eb15f26abe0cd4",
+			"hash": "c04b13a72af41bed9cfd70b5004349b1b957c8252f3ade54116f8261483f198b",
 			"description": "Best Gauntlet plugin."
 		},
 		{
@@ -373,7 +373,7 @@
 			"plugins": ["com.chimera.spoonnightmare.SpoonNightmarePlugin"],
 			"version": "1.0.3",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoonnightmare.jar",
-			"hash": "f4cf9a9eb11f1a2f1d793ca40e80a3f0b67dbc65aa798597bc1a1040ba1c93e7",
+			"hash": "ae6937f4ede6bcaf7976da80505a5b4a63971c777c57ce8348e84e421b112262",
 			"description": "Best Nightmare plugin ever."
 		},
 		{
@@ -389,7 +389,7 @@
 			"plugins": ["com.chimera.spoontob.SpoonTobPlugin"],
 			"version": "1.0.19",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoontob.jar",
-			"hash": "d53ae153ddbcdf6257cfe2456814f9bf1e4c776d40f81606ed158d570e42d120",
+			"hash": "b18a5127c943a73b0acc1edd29a76b119720c635f566fdf92e114308b7e63f69",
 			"description": "Best ToB plugin ever."
 		},
 		{
@@ -413,7 +413,7 @@
 			"plugins": ["com.chimera.toaplus.ToaPlusPlugin"],
 			"version": "1.0.10",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/toaplus.jar",
-			"hash": "529f70798cbca7556abcde2ba0e2a595d5be51baafe6144d1d36ef89f24bc4c1",
+			"hash": "cd58b81819e542f73a12c2f0c58ac35f374eca59ec41a51a8fdf8e3dcb7eddf3",
 			"description": "ToA stuff and such and things and the works and the likes"
 		},
 		{
@@ -421,7 +421,7 @@
 			"plugins": ["com.chimera.toaplussimple.ToaPlusPluginSimple"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/toaplussimple.jar",
-			"hash": "bcf2caccdedbd2c778804cb15e148b68ce116a91685f3b10199f88b184b40ccc",
+			"hash": "9a522e06496b93826b379806896fa990dd75bf38ed69c5e648703b33ef9a1187",
 			"description": "ToA plugins with some of the fluff taken out to run better..... maybe?"
 		},
 		{
