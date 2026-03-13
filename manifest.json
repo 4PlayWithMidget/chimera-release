@@ -177,6 +177,14 @@
 			"description": "Hallowed Sepulchre helper with tons of overlays"
 		},
 		{
+			"name": "infernoplus.jar",
+			"plugins": ["com.chimera.infernoplus.InfernoPlusPlugin"],
+			"version": "1.0.0",
+			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/infernoplus.jar",
+			"hash": "7f67012af30c585cd802cfb98e9d1c1fddf7b38e9e5968b159092e1d3a2be767",
+			"description": "Inferno stuff (Mainly just guitar hero)"
+		},
+		{
 			"name": "jadhelper.jar",
 			"plugins": ["com.chimera.spoonjadhelper.SpoonJadHelperPlugin"],
 			"version": "1.0.2",
