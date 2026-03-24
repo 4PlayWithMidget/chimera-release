@@ -29,7 +29,7 @@
 			"plugins": ["com.chimera.bonylo.BoNyloPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/bonylo.jar",
-			"hash": "698b8602fd68b4c0cc1371d4653d14ffd216ba92c66ba574c992f752ea3b366a",
+			"hash": "b4b3b5c6c69bb8c091a0614e32e0165cf8a48e8a71caaedb4cf51bc330a63ad3",
 			"description": "Nylo ticks good."
 		},
 		{
@@ -109,7 +109,7 @@
 			"plugins": ["com.chimera.demonicgorilla.DemonicGorillaPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/demonicgorilla.jar",
-			"hash": "a2a0157396c5b4fc44eb66c54c09b2447328169f4384455c9253a89bf172c7b3",
+			"hash": "0aa7f66a2fc1a74ab3934a14762e5db894141edfc822cc92a74a976e5dc5497a",
 			"description": "Shows the next attack for Demonic Gorillas"
 		},
 		{
@@ -197,7 +197,7 @@
 			"plugins": ["com.chimera.muspahpluspah.MuspahPluspahPlugin"],
 			"version": "1.0.0",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/muspahpluspah.jar",
-			"hash": "1e49aea2749db28380538d5d37c477198493cf46fde4dad33bbd2d8ccc004bbc",
+			"hash": "523e856e4ff337af47c72754720d71a6216301badd2496ff809c2f63b6d098de",
 			"description": "Muspah plugin."
 		},
 		{
@@ -253,7 +253,7 @@
 			"plugins": ["com.chimera.socketba.SocketBAPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/socketba.jar",
-			"hash": "49ca6f5411a7c14ca8f1f29b5a5c8696dc2460f1a8329f344cf5c1215024f435",
+			"hash": "760658103f173e188e2eebcba5ec7072d9c232dbd5d4f930a5110f2064294d5d",
 			"description": "Sends role information to other players at Barbarian Assault."
 		},
 		{
@@ -285,7 +285,7 @@
 			"plugins": ["com.chimera.socketDPS.SocketDpsCounterPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/socketDPS.jar",
-			"hash": "1d968a459bf9293753a6379f50c8779862d42230aea269b1ca0a652fdf69a60c",
+			"hash": "2316c7f431b80e15af32fc4da377ac53c0ace5d865bd10726e8c49656e9d964d",
 			"description": "Tracks damage of every player in Socket"
 		},
 		{
@@ -293,7 +293,7 @@
 			"plugins": ["com.chimera.sockethealing.SocketHealingPlugin"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/sockethealing.jar",
-			"hash": "b39e527900310bdd31513652b1e2055aaeb55ce14ccddc9ec16ed9fd6998e99e",
+			"hash": "f6aae0cfd8e9d7a930d2dc0805b7bb6ef871c6bad4d316ec82f9bc49f4c69c74",
 			"description": "Tracks Hitpoints of every player in Socket"
 		},
 		{
@@ -365,7 +365,7 @@
 			"plugins": ["com.chimera.spoongauntlet.SpoonGauntletPlugin"],
 			"version": "1.0.5",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoongauntlet.jar",
-			"hash": "c04b13a72af41bed9cfd70b5004349b1b957c8252f3ade54116f8261483f198b",
+			"hash": "77ca17f6b9ad7f1804f5213f58bb1c1d3b48090c114d805d26aad480a59c18d2",
 			"description": "Best Gauntlet plugin."
 		},
 		{
@@ -381,7 +381,7 @@
 			"plugins": ["com.chimera.spoonnightmare.SpoonNightmarePlugin"],
 			"version": "1.0.3",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoonnightmare.jar",
-			"hash": "ae6937f4ede6bcaf7976da80505a5b4a63971c777c57ce8348e84e421b112262",
+			"hash": "e98c023e367e0423e8ed69fffc253adf2f141a18cd86f8267856f6e9d5eac1f0",
 			"description": "Best Nightmare plugin ever."
 		},
 		{
@@ -397,7 +397,7 @@
 			"plugins": ["com.chimera.spoontob.SpoonTobPlugin"],
 			"version": "1.0.19",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoontob.jar",
-			"hash": "b18a5127c943a73b0acc1edd29a76b119720c635f566fdf92e114308b7e63f69",
+			"hash": "c054f1dc8d1ec976c5c23fbb9272ad524d5ecc6f55e32111c1bc6d739af8acb1",
 			"description": "Best ToB plugin ever."
 		},
 		{
@@ -405,7 +405,7 @@
 			"plugins": ["com.chimera.spoontobstats.SpoonTobStatsPlugin"],
 			"version": "1.0.3",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoontobstats.jar",
-			"hash": "7571f7865183639a9fbe3ae875887a58b2397da14f160ce44c13194ecad77f52",
+			"hash": "e4f22fe2c54b934bc7406a2d12e7b62daaacb0ed9d0674f645f552940c00bf97",
 			"description": "Best ToB time plugin ever."
 		},
 		{
@@ -437,7 +437,7 @@
 			"plugins": ["com.chimera.tormenteddemons.TormentedDemonsPlugin"],
 			"version": "1.0.0",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/tormenteddemons.jar",
-			"hash": "bf62f05ee6f0176ff0116acac3b0cb43813ffb14daff400ee283dd7bc74e695f",
+			"hash": "4c152e09807e3d0d38ecc6d367be904a9ea26235e863a4b9a3460417c62752e9",
 			"description": "Tormented Demons plugin."
 		},
 		{
