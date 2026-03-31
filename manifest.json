@@ -187,9 +187,9 @@
 		{
 			"name": "jadhelper.jar",
 			"plugins": ["com.chimera.spoonjadhelper.SpoonJadHelperPlugin"],
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/jadhelper.jar",
-			"hash": "2939a232a10d002cc30ebdc884992a6ee8ed4086f56d11b04b61344aa617256f",
+			"hash": "430a00cfb6c7979fab356a851b8cd93f3197121e78b9e466e98c03b107872311",
 			"description": "Plugin for those who cannot do Jad."
 		},
 		{
