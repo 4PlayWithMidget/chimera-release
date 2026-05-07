@@ -123,9 +123,9 @@
 		{
 			"name": "dksplus.jar",
 			"plugins": ["com.chimera.dksplus.DksPlusPlugin"],
-			"version": "1.0.0",
+			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/dksplus.jar",
-			"hash": "944e17821e7e57e7e2386fc747f265c7b0973861e39befd29c77ad8efe929bc7",
+			"hash": "a5a466e2a9bf6a5adb1cfaa64fec26a82cf65590612f1b92a8f86548884d8837",
 			"description": "Plugin for dagannoth kings."
 		},
 		{
@@ -373,7 +373,7 @@
 			"plugins": ["com.chimera.spoonnex.SpoonNexPlugin"],
 			"version": "1.0.3",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoonnex.jar",
-			"hash": "cb50ddd3dfcdf13d6df3499546bcc0dc6de672568cc91ffabf7d49a7e15c4d66",
+			"hash": "ddfa2d66eb1e2f5bd9bcae785b1ac0611c1e73621f91ceebb857221109d8a982",
 			"description": "Best Nex plugin."
 		},
 		{
@@ -429,7 +429,7 @@
 			"plugins": ["com.chimera.toaplussimple.ToaPlusPluginSimple"],
 			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/toaplussimple.jar",
-			"hash": "9a522e06496b93826b379806896fa990dd75bf38ed69c5e648703b33ef9a1187",
+			"hash": "f37fd659459caba6b3839e34665e26f9866807b45ea581bdbdaae359e1f61bdc",
 			"description": "ToA plugins with some of the fluff taken out to run better..... maybe?"
 		},
 		{
