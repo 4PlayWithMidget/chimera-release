@@ -193,6 +193,14 @@
 			"description": "Plugin for those who cannot do Jad."
 		},
 		{
+			"name": "maggottagit.jar",
+			"plugins": ["com.chimera.maggottagit.MaggotTagItPlugin"],
+			"version": "0.0.1",
+			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/maggottagit.jar",
+			"hash": "a4d756e8c6836868d0c326357982a7d9701b9da8e3e3deb4033223c204f5b33f",
+			"description": "Give us another banger questline ending Jagex (And sure Maggot King too)"
+		},
+		{
 			"name": "muspahpluspah.jar",
 			"plugins": ["com.chimera.muspahpluspah.MuspahPluspahPlugin"],
 			"version": "1.0.0",
@@ -397,7 +405,7 @@
 			"plugins": ["com.chimera.spoontob.SpoonTobPlugin"],
 			"version": "1.0.19",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/spoontob.jar",
-			"hash": "0ac841fd3785d0c549292d0f317a71d51fc8b95b9a341a001e05aa7f4b34ef42",
+			"hash": "c24e78a67c390fb49da50e4ada9f28732210cff96842d71cac2e2d67603e219a",
 			"description": "Best ToB plugin ever."
 		},
 		{
