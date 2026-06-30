@@ -195,9 +195,9 @@
 		{
 			"name": "maggottagit.jar",
 			"plugins": ["com.chimera.maggottagit.MaggotTagItPlugin"],
-			"version": "0.0.1",
+			"version": "1.0.0",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/maggottagit.jar",
-			"hash": "a4d756e8c6836868d0c326357982a7d9701b9da8e3e3deb4033223c204f5b33f",
+			"hash": "ccf6ef452262be3194e641a56020f5c1f07f94fa16238d2ff0ae05938ed2ad4e",
 			"description": "Give us another banger questline ending Jagex (And sure Maggot King too)"
 		},
 		{
