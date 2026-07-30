@@ -25,6 +25,14 @@
 			"description": "Araxxor plugin."
 		},
 		{
+			"name": "badangel.jar",
+			"plugins": ["com.chimera.badangel.BadAngelPlugin"],
+			"version": "1.0.0",
+			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/badangel.jar",
+			"hash": "c2d8e475a432b9b5ccb6a767d655c0ac6f2ebcc657ec06015c8d685aedc27104",
+			"description": "It could have been so much better......."
+		},
+		{
 			"name": "bonylo.jar",
 			"plugins": ["com.chimera.bonylo.BoNyloPlugin"],
 			"version": "1.0.1",
