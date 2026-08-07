@@ -3,9 +3,9 @@
 		{
 			"name": "alchemicalhydra.jar",
 			"plugins": ["com.chimera.alchemicalhydra.HydraPlugin"],
-			"version": "1.0.6",
+			"version": "1.0.7",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/alchemicalhydra.jar",
-			"hash": "b9f6289b2afbfdd2f3dc81d122e3a7b7ade1fc038e69ae4c82ff1a1c868c7a0f",
+			"hash": "529048d5691145154ea06e046e69981b3901a664d4d17502f132225bf82d977f",
 			"description": "An overlay plugin for the Alchemical Hydra boss."
 		},
 		{
@@ -203,9 +203,9 @@
 		{
 			"name": "maggottagit.jar",
 			"plugins": ["com.chimera.maggottagit.MaggotTagItPlugin"],
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/maggottagit.jar",
-			"hash": "5ac06de4f89c5810fe920c697b0dd2c767265697c85a89ba45a9874097ee5b6a",
+			"hash": "5790de708569a6377c1e968969915dd5e504e763adc3d1fd95fec12b253230c7",
 			"description": "Give us another banger questline ending Jagex (And sure Maggot King too)"
 		},
 		{
