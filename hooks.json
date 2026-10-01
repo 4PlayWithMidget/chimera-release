@@ -3,146 +3,146 @@
   [
     {
       "n": "invokeMenuAction",
-      "c": "qp",
-      "p": "ef",
-      "m": -44
+      "c": "iv",
+      "p": "ev",
+      "m": 83
     },
     {
       "n": "setCheckClick",
-      "c": "ez",
-      "p": "cz",
-      "m": 1
-    },
-    {
-      "n": "setSelectedSceneTileX",
-      "c": "ez",
-      "p": "bj",
-      "m": 1
-    },
-    {
-      "n": "setSelectedSceneTileY",
-      "c": "ez",
-      "p": "qc",
-      "m": 1
-    },
-    {
-      "n": "setViewportWalking",
-      "c": "ez",
-      "p": "bi",
-      "m": 1
-    },
-    {
-      "n": "setSelectedSpellWidget",
-      "c": "bq",
-      "p": "nw",
-      "m": 565061963
-    },
-    {
-      "n": "setSelectedSpellChildIndex",
-      "c": "client",
-      "p": "nx",
-      "m": 1333668003
-    },
-    {
-      "n": "setSelectedSpellItemId",
-      "c": "client",
-      "p": "nz",
-      "m": -2095241843
-    },
-    {
-      "n": "getOldNpcOverheadArray",
-      "c": "pl",
-      "p": "en",
-      "m": 1
-    },
-    {
-      "n": "getNewNpcOverheadObject",
-      "c": "dn",
-      "p": "ao",
-      "m": 1
-    },
-    {
-      "n": "getNewNpcOverheadArray",
-      "c": "yx",
-      "p": "af",
-      "m": 1
-    },
-    {
-      "n": "getNpcOverheadMethod",
-      "c": "dn",
-      "p": "aj",
-      "m": 702114062
-    },
-    {
-      "n": "isMoving",
-      "c": "dh",
-      "p": "bb",
-      "m": -1798356091
-    },
-    {
-      "n": "getActorAnimationObject",
-      "c": "dh",
+      "c": "ei",
       "p": "cw",
       "m": 1
     },
     {
+      "n": "setSelectedSceneTileX",
+      "c": "ei",
+      "p": "be",
+      "m": 1
+    },
+    {
+      "n": "setSelectedSceneTileY",
+      "c": "ei",
+      "p": "bn",
+      "m": 1
+    },
+    {
+      "n": "setViewportWalking",
+      "c": "ei",
+      "p": "bb",
+      "m": 1
+    },
+    {
+      "n": "setSelectedSpellWidget",
+      "c": "ch",
+      "p": "nr",
+      "m": 2095639247
+    },
+    {
+      "n": "setSelectedSpellChildIndex",
+      "c": "client",
+      "p": "nd",
+      "m": 1534672197
+    },
+    {
+      "n": "setSelectedSpellItemId",
+      "c": "client",
+      "p": "nl",
+      "m": -1205930503
+    },
+    {
+      "n": "getOldNpcOverheadArray",
+      "c": "ps",
+      "p": "ex",
+      "m": 1
+    },
+    {
+      "n": "getNewNpcOverheadObject",
+      "c": "cc",
+      "p": "au",
+      "m": 1
+    },
+    {
+      "n": "getNewNpcOverheadArray",
+      "c": "ya",
+      "p": "az",
+      "m": 1
+    },
+    {
+      "n": "getNpcOverheadMethod",
+      "c": "cc",
+      "p": "ah",
+      "m": -1711377007
+    },
+    {
+      "n": "isMoving",
+      "c": "ci",
+      "p": "dn",
+      "m": 1310369961
+    },
+    {
+      "n": "getActorAnimationObject",
+      "c": "ci",
+      "p": "cj",
+      "m": 1
+    },
+    {
       "n": "getActorAnimationId",
-      "c": "qr",
-      "p": "af",
-      "m": 1684838611
+      "c": "qw",
+      "p": "az",
+      "m": -126452259
     },
     {
       "n": "menuOptionsCount",
-      "c": "wz",
-      "p": "af",
-      "m": -1927903443
+      "c": "wk",
+      "p": "az",
+      "m": 1149110111
     },
     {
       "n": "menuParam0Array",
-      "c": "wz",
-      "p": "as",
+      "c": "wk",
+      "p": "aq",
       "m": 1
     },
     {
       "n": "menuParam1Array",
-      "c": "wz",
-      "p": "ax",
+      "c": "wk",
+      "p": "aj",
       "m": 1
     },
     {
       "n": "menuTypesArray",
-      "c": "wz",
-      "p": "ac",
+      "c": "wk",
+      "p": "af",
       "m": 1
     },
     {
       "n": "menuIdentifiersArray",
-      "c": "wz",
-      "p": "ag",
+      "c": "wk",
+      "p": "ac",
       "m": 1
     },
     {
       "n": "menuItemIdsArray",
-      "c": "wz",
-      "p": "ae",
+      "c": "wk",
+      "p": "am",
       "m": 1
     },
     {
       "n": "menuWorldViewIdsArray",
-      "c": "wz",
-      "p": "ab",
+      "c": "wk",
+      "p": "al",
       "m": 1
     },
     {
       "n": "menuOptionsArray",
-      "c": "wz",
-      "p": "aa",
+      "c": "wk",
+      "p": "ak",
       "m": 1
     },
     {
       "n": "menuTargetsArray",
-      "c": "wz",
-      "p": "ao",
+      "c": "wk",
+      "p": "ag",
       "m": 1
     }
   ]
