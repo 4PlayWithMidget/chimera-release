@@ -3,9 +3,9 @@
 		{
 			"name": "alchemicalhydra.jar",
 			"plugins": ["com.chimera.alchemicalhydra.HydraPlugin"],
-			"version": "1.0.8",
+			"version": "1.0.9",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/alchemicalhydra.jar",
-			"hash": "ae5a78293663e88c1dc7ba759c8632c5adc88205e1bad45f3b498d9c8c53bacf",
+			"hash": "f1d5dab1cdf51f0c414d5c3b147107aa31e8d02a327a369d1d86443017201c15",
 			"description": "An overlay plugin for the Alchemical Hydra boss."
 		},
 		{
@@ -27,9 +27,9 @@
 		{
 			"name": "badangel.jar",
 			"plugins": ["com.chimera.badangel.BadAngelPlugin"],
-			"version": "1.0.0",
+			"version": "1.0.1",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/badangel.jar",
-			"hash": "c2d8e475a432b9b5ccb6a767d655c0ac6f2ebcc657ec06015c8d685aedc27104",
+			"hash": "a50f60a9da0453d9413769cc896807c73910507e62b967f7d8f6203851b83aea",
 			"description": "It could have been so much better......."
 		},
 		{
@@ -115,9 +115,9 @@
 		{
 			"name": "demonicgorilla.jar",
 			"plugins": ["com.chimera.demonicgorilla.DemonicGorillaPlugin"],
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/demonicgorilla.jar",
-			"hash": "0aa7f66a2fc1a74ab3934a14762e5db894141edfc822cc92a74a976e5dc5497a",
+			"hash": "8e34f2b15fa19d83e2916e523b80e23b3da6e875a2d60dce03b23f08daf6a26d",
 			"description": "Shows the next attack for Demonic Gorillas"
 		},
 		{
