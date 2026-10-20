@@ -433,6 +433,14 @@
 			"description": "Disables all external plugins and hides manager."
 		},
 		{
+			"name": "thehardrchives.jar",
+			"plugins": ["com.chimera.thehardrchives.TheHardRchivesPlugin"],
+			"version": "1.0.0",
+			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/thehardrchives.jar",
+			"hash": "51beb89b85430dee4001794b7ed76b31bb17d4b7415f99f6a4d8ec40ad73fa3e",
+			"description": "We are so back............ surely"
+		},
+		{
 			"name": "toaplus.jar",
 			"plugins": ["com.chimera.toaplus.ToaPlusPlugin"],
 			"version": "1.0.10",
