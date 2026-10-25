@@ -59,9 +59,9 @@
 		{
 			"name": "chimeraexternalmanager.jar",
 			"plugins": ["com.chimera.chimeraexternalmanager.ChimeraExternalManager"],
-			"version": "1.1.2",
+			"version": "1.1.3",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/chimeraexternalmanager.jar",
-			"hash": "6da2333439f9faa0b99da323b1cb6312a2ebcd66d2f8df646cc805b366b60685",
+			"hash": "ac1095e6b80c829855ed19cf22404ddc34f7afbaac5102e97e09b10abb88caf3",
 			"description": "Loads plugins from repos"
 		},
 		{
@@ -91,9 +91,9 @@
 		{
 			"name": "debugtool.jar",
 			"plugins": ["com.chimera.debugtool.DebugToolPlugin"],
-			"version": "1.0.6",
+			"version": "1.0.7",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/debugtool.jar",
-			"hash": "0cbb55beb77a73a122f672372b98783808155565a56bff54c16413623b6bd9e1",
+			"hash": "7364cc4896d7f35ac9598570abb334d95ac667a079e76551282e60fae3d9d3b6",
 			"description": "Additional developer tools for plugin development."
 		},
 		{
@@ -435,9 +435,9 @@
 		{
 			"name": "thehardrchives.jar",
 			"plugins": ["com.chimera.thehardrchives.TheHardRchivesPlugin"],
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/thehardrchives.jar",
-			"hash": "f88527963a5ba5ee9207dc50099e9a60ae0c6a74e4b4e3974208e20d18cd8a20",
+			"hash": "fe98fbcf3cb713363837d07dce23e5e819068e760fdadeee6810fcfce4776721",
 			"description": "We are so back............ surely"
 		},
 		{
