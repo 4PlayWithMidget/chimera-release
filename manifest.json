@@ -435,9 +435,9 @@
 		{
 			"name": "thehardrchives.jar",
 			"plugins": ["com.chimera.thehardrchives.TheHardRchivesPlugin"],
-			"version": "1.0.7",
+			"version": "1.0.8",
 			"path": "https://github.com/4PlayWithMidget/chimera-release/raw/master/release/thehardrchives.jar",
-			"hash": "ac1260e99021b0a159e812fb6c4af584d1c64df896a2e3ef7178ea8b86fea19c",
+			"hash": "3eae527c0033595c6f36e3b44b8a41aa23e7f9aaae66732a880f26e67f4f16fa",
 			"description": "We are so back............ surely"
 		},
 		{
